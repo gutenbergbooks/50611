@@ -1,4 +1,36 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 50611 ***
+The Project Gutenberg EBook of The Pillar of Fire, by Joseph Holt Ingraham
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Pillar of Fire
+       or, Israel in Bondage
+
+Author: Joseph Holt Ingraham
+
+Release Date: December 5, 2015 [EBook #50611]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE PILLAR OF FIRE ***
+
+
+
+
+Produced by MWS, Chris Pinfield and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+
+
+
 
 Transcriber's Note.
 
@@ -11,7 +43,7 @@ Apparent typographical errors have been corrected as has inconsistent
 hyphenation.
 
 Italics are indicated by _underscores_. Small capitals have been
-converted to full capitals.
+converted to full capitals. "oe" ligatures have been removed.
 
 
 
@@ -112,10 +144,10 @@ eyes what he is made to place before those of the reader.
 As in "The Prince of the House of David," a young Jewish maiden is
 supposed to witness many of the most remarkable scenes in the human
 life of the Lord Jesus, and to write of them to her father in Egypt,
-so in the present work a young prince of Phœnicia is made the
+so in the present work a young prince of Phoenicia is made the
 medium of communication between the author and his reader.
 
-This prince, SESOSTRIS, the son of the king and queen of Phœnicia,
+This prince, SESOSTRIS, the son of the king and queen of Phoenicia,
 upon reaching the age of eight-and-twenty, prepares to go into Egypt,
 for the purpose of studying the laws and arts, religion and government
 of that country, which, at this period, was the most powerful kingdom
@@ -130,9 +162,9 @@ embarks in the royal galley at the marble pier of the palace of the
 Isle of Tyre. He bears letters to Amense, the queen of Egypt,
 commending him to her courtesy.
 
-Between Egypt and Phœnicia existed bonds, not only of friendly
+Between Egypt and Phoenicia existed bonds, not only of friendly
 alliance, but of relationship. But few centuries had passed since a
-king of Phœnicia, at the head of a vast army of Syrians, invaded
+king of Phoenicia, at the head of a vast army of Syrians, invaded
 Egypt, and taking Memphis, set up a foreign throne in the valley of
 the Nile.
 
@@ -297,7 +329,7 @@ LETTER VIII.
 
 Eagles of prey--Account of the Hebrews--Imposing funeral of the
 Patriarch Jacob--His powerful and able government--Overthrow of the
-dynasty of the Shepherd-Kings--Dynasty of the Thebaïd--Flourishing
+dynasty of the Shepherd-Kings--Dynasty of the Theba�d--Flourishing
 condition of the Hebrews in the land of Goshen, under the government
 of Joseph--Aspirations after the One God--Reduction of the Hebrews to
 servitude--Their rapid and miraculous increase--The massacre of their
@@ -315,7 +347,7 @@ Reflections on the degradation of the Hebrews--Hebrew pages and maidens
 in the service of Egyptian nobles--Amram, the palace gardener--Contrast
 between the physiognomy of the Egyptians and Hebrews--Remarkable
 likeness of Prince Remeses to the Israelites--Description of the
-Lord-prince Mœris--He seeks a quarrel with Remeses--Illness of
+Lord-prince Moeris--He seeks a quarrel with Remeses--Illness of
 Queen Amense--Filial devotion of Remeses--Magnificent prospect of the
 Nile, the Plain of the Pyramids, the City of the Sun, Jizeh and
 Memphis--Myriads of human beings at labor--Naval review and
@@ -324,7 +356,7 @@ sham-battle--Exciting scene of contending thousands--pp. 145-157.
 LETTER X.
 
 Recovery of Queen Amense--Gropings after the True God--Pleasure-galley
-of the Nile--Voluptuous ease--River chant--Phœnician Mythology and
+of the Nile--Voluptuous ease--River chant--Phoenician Mythology and
 Learning--Procession of the Dead--Tradition of the universal Deluge
 and of Noe-menes (Noah)--Myths of Ammon, and of Belus the Warrior-god
 and Founder of Babylon--Nimrod's temple--Baalbec--Worship of the
@@ -338,7 +370,7 @@ of the Earth; of its foundation; of its motion through space--pp.
 
 LETTER XI.
 
-The beautiful Isle of Rhoda--Prince Mœris and his favorite
+The beautiful Isle of Rhoda--Prince Moeris and his favorite
 lion--Refinement of Egyptians--Polite observances at the reception of
 visitors--Parting between Queen Amense and Remeses--Military
 emblems--Magnificent display of the Egyptian "tented hosts"--Striking
@@ -432,11 +464,11 @@ woman--Tradition of the construction of the larger pyramid--Its
 foundations--Its gates--Its covering of silk--Its treasure-chambers and
 magical guardians of stone and agate--Miriam, the papyrus-copier--Her
 striking resemblance to Prince Remeses--The pyramid penetrated by a
-Phœnician conqueror--Discovery of treasures--Mighty sarcophagus of
+Phoenician conqueror--Discovery of treasures--Mighty sarcophagus of
 the dead monarch of two worlds, Noah--Chamber of the precession of the
 equinoxes--Hall of the Universe--Pyramids built before the
 Deluge--Configuration of the seven planets as at the Creation--Astrology--
-Enigma of the Phœnix--The riddle solved--Nelisa--Interview with the
+Enigma of the Phoenix--The riddle solved--Nelisa--Interview with the
 stately Miriam in the Hall of Books--pp. 277-293.
 
 LETTER XVIII.
@@ -481,10 +513,10 @@ LETTER XXI.
 
 Thirty-fifth birthday of Prince Remeses--Queen Amense proposes to
 abdicate in his favor--The Hebrew page, Israel--Melancholy of the
-Queen--Prince Mœris--Moving interview between the Queen and
-Remeses--He declines the throne of Egypt--A secret!--Prince Mœris
+Queen--Prince Moeris--Moving interview between the Queen and
+Remeses--He declines the throne of Egypt--A secret!--Prince Moeris
 seeks the ruin of Remeses--A bribe!--Suspicion!--Terrible agitation of
-the Queen--Attempt of Mœris to poison Amense at a banquet--Another
+the Queen--Attempt of Moeris to poison Amense at a banquet--Another
 bribe--A mystery!--Remeses consents to accept the sceptre--pp.
 347-363.
 
@@ -499,19 +531,19 @@ hospitalities--Beautiful trait of character--Proposed succession of
 Remeses--Solemn vigil, and other ceremonies of initiation--Remeses
 shut out from the world in the gloom of the mysterious temple--
 Israelisis with a message from the Queen--The Celestial Sea--A
-courier from Mœris--Great distress and singular manner of the
+courier from Moeris--Great distress and singular manner of the
 Queen--A terrible secret--An impatient follower--pp. 364-380.
 
 LETTER XXIII.
 
-Revelations--Letter from Mœris--His haughty demand--Is Remeses the
+Revelations--Letter from Moeris--His haughty demand--Is Remeses the
 son of Pharaoh's Daughter?--Another letter and another haughty demand
-from Mœris--Still another--A doubt!--An investigation--Amense never
+from Moeris--Still another--A doubt!--An investigation--Amense never
 a mother!--Her descent to the Nile to bathe--The little ark of
 basket-work and beautiful child--The princess adopts it--A
 threat!--The Queen unfolds the terrible secret--Her agony of fear--Her
 touching story of the discovery of the infant Remeses--She gains
-resolution and defies Mœris--Remeses a Hebrew!--pp. 381-397.
+resolution and defies Moeris--Remeses a Hebrew!--pp. 381-397.
 
 LETTER XXIV.
 
@@ -534,7 +566,7 @@ pyramid--Mocking eyes--He flees--Tender interview between the Queen
 and Remeses--He narrates his vision--The secret fully unveiled--
 Discovery of a father, mother, brother, sister--Illness of the
 Queen--She assembles the councils of the nation--Remeses renounces the
-throne--Amense adopts Mœris--Her death--Amram--The mother of
+throne--Amense adopts Moeris--Her death--Amram--The mother of
 Remeses--Miriam--Aaron--Egypt in mourning--Remeses assumes his Hebrew
 name, Moses--Arts of magicians and sorcerers--pp. 415-431.
 
@@ -551,7 +583,7 @@ Queen Epiphia--Tyre--Damascus--He meets the venerable Prince of Uz
 LETTER II.
 
 Defeat of the King of Cyprus by Sesostris--Moses in Syria--He journeys
-to sit at the feet of Job--Cruelty of Pharaoh (Mœris)--The Lake
+to sit at the feet of Job--Cruelty of Pharaoh (Moeris)--The Lake
 Amense--pp. 436-438.
 
 LETTER III.
@@ -562,7 +594,7 @@ writes his life--Job leads Moses to the knowledge of the true God--pp.
 
 LETTER IV.
 
-Mœris increases the burdens of the Hebrews--Tradition as to the
+Moeris increases the burdens of the Hebrews--Tradition as to the
 term of their servitude--Nearly accomplished--Moses, in Syria, yearns
 to be with his brethren in Egypt--pp. 442-444.
 
@@ -588,7 +620,7 @@ discredited--pp. 449-461.
 
 LETTER VII.
 
-Moses, in disguise, sees King Mœris amid his chief captains--
+Moses, in disguise, sees King Moeris amid his chief captains--
 Terrible cruelties inflicted upon the Hebrews--Taskmaster
 pursues a Hebrew youth, to kill him--Moses slays the taskmaster--Comes
 upon two Hebrews in altercation--He rebukes them--They threaten to
@@ -601,7 +633,7 @@ LETTERS OF REMESES OF DAMASCUS TO HIS FATHER, KING SESOSTRIS.
 LETTER I.
 
 The young prince visits Egypt--The acts of the Egyptian kings--The
-reign of Mœris--He constructs an immense lake--Inauguration of a
+reign of Moeris--He constructs an immense lake--Inauguration of a
 temple--Splendid spectacle of idol-worship--Plain of the
 Mummies--Enlargement of Memphis--Discovery of treasures beneath the
 Sphinx before Chephres--The captive King Occhoris--Increase of
@@ -756,7 +788,7 @@ LETTER I.
 
  PRINCE SESOSTRIS
  TO HIS ROYAL MOTHER, EPIPHIA,
- QUEEN OF PHŒNICIA.
+ QUEEN OF PHOENICIA.
 
 At length, my dear mother, I have reached the "Land of the Seven
 Rivers," and do now write to you from her gorgeous capital, ON, The
@@ -775,15 +807,15 @@ splendor of whose reign has raised Egypt above the mightiest empires
 of the earth.
 
 And all that I behold recalls the ancient glory, my dear mother, of
-our own land, the once princely Palestina and Phœnicia,--twin
+our own land, the once princely Palestina and Phoenicia,--twin
 kingdoms which of old gave conquerors, and rulers, and laws to Egypt,
 under the short but brilliant dynasty of her Shepherd Kings! But,
-though fading with age, Phœnicia still lives in the beauty, pride,
+though fading with age, Phoenicia still lives in the beauty, pride,
 and power of her daughter Egypt.
 
 I will not lament over the waning glory of my own dear land, my royal
 mother, while I can see it revived here with increased magnificence.
-Phœnicia is not dead while Egypt lives. Every ruin in my own
+Phoenicia is not dead while Egypt lives. Every ruin in my own
 kingdom is restored with augmented beauty and splendor on the green
 plains of this land of the shining River, whose fountain-head is
 underneath the throne of Thoth, far in the southern sky.
@@ -801,7 +833,7 @@ Egypt surpass this Syriac magnificence.
 In coming hither, across the Levantine seas, from Syria, I seem to
 have crossed to the shores of that mystic world where dwell the sacred
 divinities, rather than only to another land of the plane of the
-earth; for Egypt, compared with the kingdom of Phœnicia seems truly
+earth; for Egypt, compared with the kingdom of Phoenicia seems truly
 the land of the blessed. What far-famed warriors! what stately
 priests, clothed with power from the gods! what superb princes! what a
 majestic queen! what grace and dignity in the virgins of the Sun! what
@@ -899,7 +931,7 @@ low dark galleys from Afric, that bring Ethiopian slaves; and the
 broad heavier vessels from the Delta, laden with wheat and fine flour!
 There were also the strong craft from Colchis and the North, with
 iron, and brass, and marble; and oaken argosies from further
-Britannia, bringing tin; tall ships from Græcia with horses and
+Britannia, bringing tin; tall ships from Gr�cia with horses and
 chariots; while from the south shores of the summery seas were light,
 graceful vessels laden with dainty and goodly fruits, and birds of
 gorgeous plumes and of ravishing songs! All these annually lay their
@@ -1038,7 +1070,7 @@ language, and with an elegance of manners unsurpassed save in the
 polite land of Egypt, he assured me of the pleasure it would give his
 royal mistress, Queen Amense, "The Support of Worlds," as he termed
 her, to have me visit her court. He said she was just then returning
-from a visit to the temple of Isis and Nephthys, at Philæ, with a vast
+from a visit to the temple of Isis and Nephthys, at Phil�, with a vast
 retinue of state and sacred galleys, and by the time I arrived at
 Memphis she would be either there or at her private palace at On.
 
@@ -1170,7 +1202,7 @@ thee!
 I have prefaced my letter in this manner, dear mother, lest you should
 jealously read the glowing descriptions I give of what I behold, and
 may fear that the luxuries and grandeur of Egypt will make me
-dissatisfied with the lesser splendor of the Court of Phœnicia.
+dissatisfied with the lesser splendor of the Court of Phoenicia.
 Fear not. I shall bring back to thee a son's faithful love, and to my
 people the loyal affection due to them from their prince.
 
@@ -1193,7 +1225,7 @@ columns and capitals, thus exquisitely fashioned, are gigantic in
 size, and of the grandest altitude.
 
 The central temple is a lofty and wonderful edifice of brilliant red
-sandstone, with sixty columns of marble enriching its façades; these,
+sandstone, with sixty columns of marble enriching its fa�ades; these,
 with the three hundred, representing the three hundred and sixty days
 of the ancient Egyptian year. The front of this sublime temple is
 pierced by three colossal gateways, broad enough for four chariots to
@@ -1285,17 +1317,17 @@ I acknowledged the grace of the queenly Amense in this courteous
 reception of a stranger, and followed him across the terrace, which I
 perceived was encircled by statues of all the divinities of the earth;
 and I was gratified to see that Io, and Hercules, and the favored
-deity of Phœnicia, Athyris, had conspicuous pedestals allotted to
+deity of Phoenicia, Athyris, had conspicuous pedestals allotted to
 their sacred images, near the Theban god Amun.
 
 Indeed, dear mother, this fact, and the manner of my reception, shows
 that the present dynasty has graciously forgotten the conquest of
-Egypt by the warlike hosts of Phœnicia. But when we recollect that
+Egypt by the warlike hosts of Phoenicia. But when we recollect that
 the first Amosis of the present house of Pharaohs had for his queen
-the beautiful Ephtha, daughter of the last Phœnician Pharaoh,
+the beautiful Ephtha, daughter of the last Phoenician Pharaoh,
 taking her captive when he expelled the father from the throne of
 Memphis, we need not be surprised at the favor shown us by the noble
-Queen Amense, for, fourth only in descent from the fair Phœnician,
+Queen Amense, for, fourth only in descent from the fair Phoenician,
 who was of our own blood, she is our cousin by just hereditary
 lineage.
 
@@ -1385,7 +1417,7 @@ from his queen, which had been presented to me from the others. He
 rode by my side, and we took our way at a rapid trot along an avenue
 of alternate obelisks and sphinxes, until we passed through a pylon
 which opened into the streets of the city. The splendor around
-bewildered me. Palaces, with gorgeous façades and triple stories of
+bewildered me. Palaces, with gorgeous fa�ades and triple stories of
 colonnades, composed street after street, while fountains and statues
 and propyla, temples, monoliths, andro-sphinxes and crio-sphinxes
 presented, as I rode along through this superb "City of the Sun," an
@@ -1413,7 +1445,7 @@ my command. As I said to you, dear mother, in my first letter, I have
 yet only seen the Queen of Egypt at a distance, as she was ascending
 the steps of her palace, but to-morrow I am formally to be presented
 to her, for on that day of the week alone she receives princes and
-ambassadors. She had returned four days before to Memphis, from Philæ,
+ambassadors. She had returned four days before to Memphis, from Phil�,
 with a great retinue of the lords and officers of her realm, and
 yesterday, crossing the Nile in her barge of state, she entered this
 sacred city, which she visits for three days every month to perform in
@@ -1478,7 +1510,7 @@ beards, and narrow but fine eyes, which seemed to have a strange
 expression of tears in them. There were among them noble and manly
 men, handsome youths, though pale with toil, and bent forms of aged
 men. I marvelled to see so fine a race thus in bondage, as slaves
-under taskmasters, for in the day of the Phœnician Pharaohs, there
+under taskmasters, for in the day of the Phoenician Pharaohs, there
 were no such bondmen in the land of Egypt. From their remarkable
 likeness to some natives of Mesopotamia I had seen in Tyre, I judged
 that they must be captives of that ancient Orient people, taken in the
@@ -1496,7 +1528,7 @@ to be honored with a personal visit from the lord of Egypt, ere the
 queen mother should receive me in state.
 
 Upon reaching the circular peristyle hall within the portico, the
-ædile of my palace opened the gilded doors, and there stood before me
+�dile of my palace opened the gilded doors, and there stood before me
 the Prince of Egypt. I have already described his noble presence and
 personal appearance. Upon seeing me he advanced, waving his attendants
 to withdraw, and with mingled dignity and sweetness, that at once won
@@ -1595,7 +1627,7 @@ inventor of letters.
 
 And here let me remark, that writing by letters is scarcely yet known
 in Egypt, the hieroglyphic form being still in current use; but
-Remeses has cultivated the Phœnician art, and writes with a
+Remeses has cultivated the Phoenician art, and writes with a
 character of his own construction, with the facility and beauty of one
 of our own men of letters. Ere long, through his influence, this form
 of writing will supersede wholly the hieroglyph, which is cumbersome
@@ -1679,7 +1711,7 @@ sides, and was a little raised above the walls upon the columns, so
 that the breezes, which were wafted over the gardens of flowers, might
 freely enter.
 
-This was my reception-room, or _mándara_, as it is termed. A beautiful
+This was my reception-room, or _m�ndara_, as it is termed. A beautiful
 cornice surrounds the whole room. The furniture is of the most
 tasteful and luxurious description, and of forms and uses unknown to
 our severer Syrians. There are tables of Arabian wood, inlaid with
@@ -1756,7 +1788,7 @@ Egypt and to the other gods. At home, in Syria, I have marvelled how
 the Egyptian mythology could stand, when made up of such contradictory
 elements,--a part directing the worship of an invisible divinity, and
 a part directing the adoration of the hosts of heaven and beasts of
-the earth. In Phœnicia we worship the Invisible through the sun, as
+the earth. In Phoenicia we worship the Invisible through the sun, as
 his representative. We worship nothing earthly. In Palestine, south of
 us, Ashteroth, Belus, and images of stone and brass are adored, but
 not with us."
@@ -1878,8 +1910,8 @@ with gratitude his looks of kindness. "I hope ere long so to profit by
 your information as to understand your ancient system of religion.
 From what you have said, I perceive that it stands above all others on
 earth, rightly interpreted; and before its spiritual essence, our
-worship in Phœnicia--which is chiefly a union of idolatry and
-Sabæanism--is pure materialism."
+worship in Phoenicia--which is chiefly a union of idolatry and
+Sab�anism--is pure materialism."
 
 At this moment we rose, as by one impulse, and walked out upon the
 terrace to enjoy the breeze which was waving refreshingly, to our
@@ -2042,7 +2074,7 @@ people, and children enjoyed themselves in play. Upon the lake,
 ornamented pleasure galleys were moving in various directions, and a
 spirit of enjoyment pervaded the whole scene. Around this grand square
 with its central lake were arranged as follows: on the north side a
-superb colonnade of sculptured columns, forming the façade of the
+superb colonnade of sculptured columns, forming the fa�ade of the
 Temple of Mnevis, the sacred ox of On, at the gate or propyla of which
 crouched two sphinxes, with majestic human heads. On the west side was
 a vast paved area, in the centre of which towered the obelisk of
@@ -2073,7 +2105,7 @@ his sword in his hand reversed, descended to receive me. Escorted by
 him, and followed by the grand-chamberlain, I ascended to the terrace
 saluted by the guard with the honors paid to royalty. The terrace was
 surrounded with the statues of the kings of this dynasty, and of the
-Theban Pharaohs; but the Phœnician Pharaohs are not now numbered
+Theban Pharaohs; but the Phoenician Pharaohs are not now numbered
 among the kings of Egypt. The terrace led into a circular hall which
 was richly carved, gilded, and painted with historic scenes,
 battle-pieces and naval combats. Conspicuous upon a panel, directly in
@@ -2217,10 +2249,10 @@ the enthroned OSIRIS himself.
 The prince looked more strikingly noble than in my first interview. He
 was attired with the utmost richness, and looked the personification
 of kingly dignity. He was now distinguished by the amplitude of his
-robes, and their fineness, and a girdle ornamented with the _uræus_ or
+robes, and their fineness, and a girdle ornamented with the _ur�us_ or
 royal serpent. All his garments were of the lightest and finest
 material, instead of the heavy and costly stuffs which form the robes
-of state in Phœnicia and Assyria; for, as my own embroidered and
+of state in Phoenicia and Assyria; for, as my own embroidered and
 heavy mantle showed me, such material would be out of place in this
 clime of perennial summer. He wore a gorgeous vesture embroidered with
 leaves, and a silken sash wound about his body, after the fashion of
@@ -2237,7 +2269,7 @@ priest, and people; therefore do I so particularly describe it.
 With grace and dignity he saluted me before the whole court, saying,
 "Noble prince, with pleasure I present you to my mother the queen. She
 is already prepossessed in your favor, and welcomes you to her court
-with distinctions becoming the heir to the throne of Phœnicia, and
+with distinctions becoming the heir to the throne of Phoenicia, and
 our royal cousin."
 
 I bowed in recognition of this courtesy, and Remeses, taking my hand,
@@ -2263,20 +2295,20 @@ of Astarte, in the temple of the Moon at Sidon; and, in truth, her air
 and port would have become a goddess. Her eyes were the color of her
 hair--a rich sunny brown, like that of the Syrian women of Damascus;
 and is she not, by descent through Ephtha, the daughter of the last
-Phœnician Pharaoh, allied to the royal line of Syro-Phœnicia? I
+Phoenician Pharaoh, allied to the royal line of Syro-Phoenicia? I
 never beheld a countenance so dignified, yet so benign. Her eyes are
 piercing, and imperial in their glance; and she carries her superb
 head with a consciousness of dominion. I did not marvel longer at her
 vast power over her subjects, and their submission, as well as that of
 the kingdoms around her, to the rule of her will.
 
-Upon her head she wore the double diadem of the Thebaïd and Memphis,
+Upon her head she wore the double diadem of the Theba�d and Memphis,
 symbol that the sovereignty of Upper and Lower Egypt is vested in her
 person. The inner crown was a graceful conical bonnet of white silk,
 sown with pearls and lined with cloth of silver, terminating in a
 knob, like a pomegranate bud, which is the emblem, I believe, of Upper
 Egypt. The outer crown, which is similar to that worn by the
-Phœnician Pharaohs, is a rich band of gold, faced with cloth of
+Phoenician Pharaohs, is a rich band of gold, faced with cloth of
 gold and lined with red silk, red being the special color of Lower
 Egypt as white is of Upper. This crown is open at the top, and is put
 on over the other; and the two worn together form a diadem of beauty
@@ -2310,7 +2342,7 @@ friendly relations now existing between the two courts may be
 strengthened by my visit. She was also pleased to say, that every
 opportunity should be afforded me for seeing Egypt, and that if I
 desired to visit Karnac and Luxor, and the temples and cities of the
-Thebaïd, she would furnish me with galleys.
+Theba�d, she would furnish me with galleys.
 
 To all this exceeding kindness and courtesy, my dear mother, I
 returned, as you may be sure, appropriate acknowledgments; and after
@@ -2370,11 +2402,11 @@ feature in Egyptian architecture, rests a broad but simple architrave,
 usually sculptured with hieroglyphics illustrating subjects connected
 with the deity of the temple, or the occupant of the palace which they
 adorn. The upper edge of it is often occupied by a row of the sacred
-serpent, _uræus_. The boldness and breadth of the cornice supplies the
+serpent, _ur�us_. The boldness and breadth of the cornice supplies the
 want of a pediment--flat roofs being used in this country, when used
 at all, where rain is scarcely known, and where snow was never seen.
 
-The porticos and façades present double and triple rows of columns,
+The porticos and fa�ades present double and triple rows of columns,
 but seldom are they found on the sides or around the temples, as at
 Damascus and Tadmor. The circular arenas in the city, which I have
 described in a former letter, were not temples but colonnades, and
@@ -2501,7 +2533,7 @@ chamber represented the great circle of the sun through the twelve
 constellations, and also the images of the seven planetary gods,
 executed in the pavement with almost every variety of colored stone,
 such as the emerald, amethyst, agate, lapis lazuli, root of emerald,
-cornelian, greenstone, hæmatite, all interset with gold, silver, and
+cornelian, greenstone, h�matite, all interset with gold, silver, and
 bronze. Nothing could be richer. A sun of pure gold was placed in the
 centre of this wonderful zodiac, if I may so term it, for I do not
 know whether it is a true planetary configuration which is represented
@@ -2648,7 +2680,7 @@ that the two lines, deploying as they drew nearer, passed through each
 other in spaces measured by the eyes of the charioteers so nicely,
 that in a moment they were rattling away, each to occupy the other's
 vacated position. There was a general shout of applause from the tens
-of thousands of spectators at this brilliant manœuvre. Other
+of thousands of spectators at this brilliant manoeuvre. Other
 displays of battle-charioteering took place, during which was
 exhibited every evolution that war demands on the veritable field of
 conflict.
@@ -3049,13 +3081,13 @@ thirty years ago saved the inhabitants of Egypt from perishing by
 famine, having received from the god Osiris knowledge of a seven
 years' famine to befall the kingdom, after seven years of plenty. This
 Prince Iosepf or Joseph was also called Hermes, though he wrote not
-all the books attributed to Hermes, as we in Phœnicia understand of
+all the books attributed to Hermes, as we in Phoenicia understand of
 that personage.
 
 "Was this Joseph an Egyptian?" I asked of the Prince Remeses, as we
 dashed past the ruins of a palace in the midst of the gardens.
 
-"No, a Hebrew," he answered. "He was the favorite of the Phœnician
+"No, a Hebrew," he answered. "He was the favorite of the Phoenician
 Pharaoh who commenced the palaces of this City of Treasure."
 
 "A Hebrew!" I exclaimed. "Not one of the race I behold about me
@@ -3076,7 +3108,7 @@ with their drawings and rules."
 We soon drove up to the spot, having passed several fallen columns,
 which had once adorned the baths of the house of this Hebrew prince,
 who had once been such a benefactor to Egypt; but, as he was the
-favorite of a Phœnician king, the present dynasty neglect his
+favorite of a Phoenician king, the present dynasty neglect his
 monuments, as well as deface all those which the Shepherd Kings
 erected to perpetuate their conquest. Hence, it is, dear mother, I
 find scarcely a trace of the dominion in Lower Egypt of this race of
@@ -3213,15 +3245,15 @@ my wages!" This was spoken sullenly.
 
 "What is thy day's wages?" I demanded.
 
-"A quarter of a scarabæus," he answered. This is the common cheap
+"A quarter of a scarab�us," he answered. This is the common cheap
 coin, bearing the sacred beetle cut in stone, copper, lead, and even
 wood. Higher values are represented by silver, bronze, brass, and gold
 rings. Money in disk-form I have not yet heard of in Egypt. An
 Egyptian's purse is a necklace of gold rings of greater or less value.
-The scarabæus is often broken in four pieces, each fraction containing
+The scarab�us is often broken in four pieces, each fraction containing
 a hieroglyphic. The value is about equal to a Syrian neffir.
 
-I placed in his hand a copper scarabæus, and said: "Go thy way! This
+I placed in his hand a copper scarab�us, and said: "Go thy way! This
 shall justify thee to thy conscience. These Hebrews are too helpless
 to be of further service to thee this day."
 
@@ -3288,9 +3320,9 @@ vernacular.
 "It is a sad history, my lord! Art thou then a stranger in Egypt, that
 thou art ignorant of the story of the Hebrew?"
 
-"I am a Phœnician. I have been but a few weeks in Egypt."
+"I am a Phoenician. I have been but a few weeks in Egypt."
 
-"Phœnicia! That is beyond Edom; nay, beyond Philistia," he said
+"Phoenicia! That is beyond Edom; nay, beyond Philistia," he said
 musingly. "Our fathers came farther, even from Palestine."
 
 "Who were your fathers?"
@@ -3299,7 +3331,7 @@ musingly. "Our fathers came farther, even from Palestine."
 
 "I have heard of them, three princes of Syria, many generations past!"
 
-"Yes, my lord of Phœnicia," said the venerable man, his eyes
+"Yes, my lord of Phoenicia," said the venerable man, his eyes
 lighting up; "they were princes in their land! But, lo! this day
 behold their children in bondage! And _such_ a servitude!" he cried,
 raising his withered hands heavenward. "Death, my lord, is preferable
@@ -3461,12 +3493,12 @@ chaplets to the god, who was crowned with them every morning by the
 offered incense, which indeed is but the fragrance of flowers in
 another form, purified by fire. In this garden I saw the myrobalanum,
 with its rich fruit, out of which a rare ointment is extracted for
-anointing the priests; the phœnicobalanus, which bears an
+anointing the priests; the phoenicobalanus, which bears an
 intoxicating fruit, and gives to the priests who eat of it divining
 powers; the graceful palma, or sheath for the palm-flowers; the
 almond-tree, brilliant with its flowering branches; the wine-giving
 myxa; the ivory-palm fruit, of which censers are made; the mimosa
-Nilotica, and the golden olive of Arsinoë. All these grew on one path,
+Nilotica, and the golden olive of Arsino�. All these grew on one path,
 which traversed the garden close to the terrace, and I enumerate them,
 dear mother, as I know your horticultural taste, and that any thing
 about the plants of Egypt will gratify you. I have already selected
@@ -3527,7 +3559,7 @@ Arabian priests of Petra he is held as a god, who came down on earth
 to show kings how to reign and benefit mankind. With him the Prince of
 Assyria, Abram, was on terms of the closest friendship. At length a
 famine arising in the land where he dwelt, he came down into Egypt
-just after the invading hosts of Phœnicia and Palestine had
+just after the invading hosts of Phoenicia and Palestine had
 inundated our kingdom, and conquering On and Memphis, had subdued
 Lower Egypt, and set up their foreign dynasty, known as that of the
 Hyksos or Shepherd Kings."
@@ -3549,12 +3581,12 @@ Remeses. "This ambitious warrior having entered the Sethroite country,
 encamped and founded a city which he made his arsenal of war; and from
 it he sent out his armies and conquered Memphis and the whole of Lower
 Egypt. The kings of Egypt, abandoning to him Lower Egypt, retired with
-their court and army to the Thebaïd, and were content to reign there
+their court and army to the Theba�d, and were content to reign there
 over half the kingdom, while the haughty conquerors established their
 foreign throne at Memphis.
 
 "It was," continued Remeses, "during the reign of Bnon, the first
-Phœnician Pharaoh after the death of the conqueror, that Abram came
+Phoenician Pharaoh after the death of the conqueror, that Abram came
 into Egypt. He had known this prince in Palestine when he was in his
 youth, and the king gladly welcomed so powerful a lord and warrior,
 who had in battle overthrown Chedorlaomer, the mighty King of Elam,
@@ -3568,7 +3600,7 @@ of gold, silver, cattle, and servants, marched out of Egypt into
 Arabia of the South, and so to his own city.'"
 
 "It is probably," I said, "from this fact of Prince Abram's coming
-into Egypt about the time that the Phœnicians came, that some
+into Egypt about the time that the Phoenicians came, that some
 traditions have made him its conqueror and the founder of the dynasty
 of the Shepherd Kings."
 
@@ -3721,7 +3753,7 @@ and ruled sixty-one years, until both he and Apophis the king were
 waxed in years. At length he died, and was embalmed, and his body
 placed in the second pyramid, which you behold a little to the right
 of Memphis. There his body does not now rest, for, after the expulsion
-of the Phœnician dynasty, the Hebrews secretly removed it, and its
+of the Phoenician dynasty, the Hebrews secretly removed it, and its
 place of concealment is known only to themselves. There is a saying
 among them that the bones of this prince shall rise again, and that he
 shall go with them forth from Egypt to a new and fair country beyond
@@ -3739,7 +3771,7 @@ wherein they once dwelt so peacefully, under the benign sway of their
 mighty brother?"
 
 "The answer to this question, my Sesostris," said the prince, "will
-involve a history of the overthrow of the dynasty of the Phœnician
+involve a history of the overthrow of the dynasty of the Phoenician
 conquerors, which lasted over two hundred years, with a succession of
 six kings. Upon the death of the Prince Joseph in his one hundred and
 tenth year, Apophis the king, being also of great age, became
@@ -3748,7 +3780,7 @@ intrusted to the hands of his Hebrew prime minister. Ignorant of the
 true condition of his government--known to but few of his
 subjects--aged and imbecile, he was incapable of holding the reins of
 state, left by the Hebrew in his hands. The ever-jealous and watchful
-king of the Thebaïd, in Upper Egypt, did not delay to take advantage
+king of the Theba�d, in Upper Egypt, did not delay to take advantage
 of an opportunity like this to attempt the restoration, in Lower
 Egypt, of the ancient throne of the native Pharaohs, by the expulsion
 of the usurping dynasty. But, my Sesostris, you know well the
@@ -3773,8 +3805,8 @@ overthrown by the victorious Theban king and restorer, Amosis, my
 great ancestor, or by his successor, Amunophis I.
 
 "When these invaders were expelled from Lower Egypt, then the two
-crowns of the Thebaïd and Memphitic kingdoms became united in the
-person of Amunophis, the son of 'the Restorer,' and it is this Thebaïd
+crowns of the Theba�d and Memphitic kingdoms became united in the
+person of Amunophis, the son of 'the Restorer,' and it is this Theba�d
 dynasty which now holds the sceptre of the two kingdoms, and which is
 represented in the person of my mother, the daughter of Amunophis, who
 died when she was a young girl. She has ever since reigned with the
@@ -3790,7 +3822,7 @@ that the two histories are naturally united."
 Memphis which bears his name, and upon which the scenes of the
 expulsion of these Philistine soldier-monarchs are depicted with great
 spirit and fidelity--the new king, I say, upon driving out the
-invaders, keeping the Phœnician king's fair daughter, Ephtha, as
+invaders, keeping the Phoenician king's fair daughter, Ephtha, as
 his wife, turned his attention to the other class of strangers, who
 had the fairest portion of Egypt for their possession. He accordingly
 visited, in state, the city of Succoth, in the province of Goshen,
@@ -3838,11 +3870,11 @@ Another time we will discourse on these themes. The new king hearing
 that two hundred thousand and more foreigners dwelt here, called all
 the elders and chief men before him; and when he had questioned them
 and heard their history, and had learned that the Prince Joseph, who
-had done so much to uphold and consolidate the Phœnician rule, was
+had done so much to uphold and consolidate the Phoenician rule, was
 one of their ancestors, his wrath was presently kindled against them.
 He saw in them the friends and adherents of the overthrown dynasty;
 both as allied by blood to the great Hebrew prime-minister, and as
-originating from the same country with the expelled Phœnician king.
+originating from the same country with the expelled Phoenician king.
 He, therefore, perceiving they were not a warlike people, and could
 not be dreaded as an army, instead of declaring war against them and
 driving them out of Egypt, as he had done the Syrian kings, resolved
@@ -3850,7 +3882,7 @@ to reduce them to servitude like captives taken in war. Having come to
 this resolution, he held as prisoners the chief men before him, and
 placed the whole people under the yoke of bondage, enrolling them
 under task-officers, and putting them to work upon the cities,
-temples, palaces, and canals, which the Phœnicians had either
+temples, palaces, and canals, which the Phoenicians had either
 destroyed, or suffered to fall into ruin. This was the beginning, my
 Sesostris, of the subjugation to perpetual labor of these Syrians or
 Hebrews in the very land where one of their family had ruled next to
@@ -3930,7 +3962,7 @@ of men you have beheld this day toiling in the fields, making brick to
 build up Raamses, bear witness. The edict continued in force for two
 years, when Amunophis died. After the seventy days of mourning were
 ended, his daughter Amense, who had been married to the prince of the
-Thebaïd, a nephew of Amunophis, but had been left a widow about the
+Theba�d, a nephew of Amunophis, but had been left a widow about the
 time of her father's death, came to the throne as the next in
 succession to the double crown. With the sceptre was bequeathed to her
 the iron chain that bound the Hebrews. Young, inexperienced in rule,
@@ -4014,7 +4046,7 @@ him that we were delaying at Raamses when we ought to be on our way
 back to On.
 
 "Come, Sesostris, let us get upon the chariot and return, for I
-promised to dine with my mother and the Lord Prince Mœris to-day;
+promised to dine with my mother and the Lord Prince Moeris to-day;
 and it is already past noon by the shadow of that obelisk."
 
 We stood upon the silver-chased chariot, and taking the leopard-skin
@@ -4072,7 +4104,7 @@ enough to solve this intricate problem of Egypt. Certain it is, that
 if the Hebrews go on multiplying and growing as they now do, in
 another generation they will outnumber the Egyptians, and will need
 only a great leader like their warlike ancestor Prince Abram, or the
-hero king of Philistia, who established the Phœnician dynasty, to
+hero king of Philistia, who established the Phoenician dynasty, to
 enable them to subvert the kingdom, and upon its ruins establish
 another Syro-Hebraic dynasty. One of their ancestors has already ruled
 Egypt, and another may yet sit in the very seat of the Pharaohs.
@@ -4081,7 +4113,7 @@ As we re-entered the City of the Sun, we passed by the base of an
 obelisk which Queen Amense is erecting to mark the era and acts of her
 long reign. Upon it were sculptured representations of her battles
 with the Ethiopians, her wars with Libya, and her conquest of Arabia.
-The work was executed by Phœnician and Egyptian artists; and I am
+The work was executed by Phoenician and Egyptian artists; and I am
 rejoiced to see that the painters of Tyre and the sculptors of Sidon
 are greatly esteemed for the delicacy and perfection of their work.
 When these persons saw me, they dropped their pencils and chisels, and
@@ -4162,7 +4194,7 @@ Indeed, I have seen an old Hebrew bondman, a gardener in the palace
 garden, by the name of Amram, who is so strikingly like the prince
 that I can easily see by him, how Remeses himself will look at eighty
 years of age. But this Syriac countenance of Remeses comes from his
-grandmother, Ephtha, the daughter of the last Phœnician Pharaoh;
+grandmother, Ephtha, the daughter of the last Phoenician Pharaoh;
 yet it is marvellous he has about him nothing of the Egyptian type.
 The Egyptian or Nilotic race, have a sharp and prominent face, in
 which a long and straight, or gently aquiline nose forms a principal
@@ -4193,7 +4225,7 @@ this Egyptian national head and face; on the contrary, he resembles
 the highest type of the Hebrew. Is not this remarkable? That is, is it
 not wonderful that the Syriac blood, derived from the Queen Ephtha,
 should descend pure to the third generation, unmingled with the
-Thebaïd characteristics of Amunophis, his grandfather?
+Theba�d characteristics of Amunophis, his grandfather?
 
 I am not aware whether the prince is conscious of his great likeness
 to this oppressed people, nor would I be so rude as to speak to him of
@@ -4208,19 +4240,19 @@ Theban kings. He had been married but a few months to Pharaoh's
 daughter, when, being called to repulse an invasion of the warlike
 Ethiopians, he was slain in battle. Remeses was born not long
 afterwards, and is, therefore in a twofold degree the heir of the
-silver crown of the Thebaïd. Had he been willing to leave his mother,
+silver crown of the Theba�d. Had he been willing to leave his mother,
 she would, when he became thirty years old (which is the age of
 maturity by the laws of Egypt), have sent him with a splendid retinue
 to Upper Egypt, and made him Prince of Thebes, as his father had been
 before him. But he chose to remain with the queen, to whom he appears
 as much attached as I am to you, my dear mother; and Amense
-substituted a nephew of her deceased husband, Prince Mœris, and
+substituted a nephew of her deceased husband, Prince Moeris, and
 placed him, four years since, on the vicegerent throne of the kingdom
 of the Upper Nile.
 
-It was this Prince Mœris, with whom Remeses was to dine in the
+It was this Prince Moeris, with whom Remeses was to dine in the
 palace on the day we drove to the treasure-city of Raamses. I was also
-present, dear mother, at the dinner. The Lord Mœris is about the
+present, dear mother, at the dinner. The Lord Moeris is about the
 age of Remeses, but altogether a very different person. He is
 thoroughly Egyptian, both in looks and lineage as well as by prejudice
 and feeling.
@@ -4246,13 +4278,13 @@ with his own hands to Apis, and to-day he worshipped Mnevis, the
 sacred ox of On.
 
 He was more communicative with me at the dinner than with Remeses. He
-expressed the greatest admiration of Phœnicia, praised the
+expressed the greatest admiration of Phoenicia, praised the
 brilliancy of your reign, and the rich commerce of the Isle of Tyre.
 He said he had a great reverence for our deities, Astarte, Hercules,
 Io, and Isis; for, he asserted that Isis was quite as much a
-Phœnician as an Egyptian goddess. "Had he not in Thebes," said he,
+Phoenician as an Egyptian goddess. "Had he not in Thebes," said he,
 "instituted a procession and a rite in honor of the return of Isis
-from Phœnicia! We are one in religion, one in commerce, one in
+from Phoenicia! We are one in religion, one in commerce, one in
 glory," he continued, with fulsome enthusiasm. "Are not our kingdoms
 both ruled by queens? Let us draw closer the bonds of alliance, and
 together rule the world! You are a free city, your Tyre! never been
@@ -4264,20 +4296,20 @@ end of days.'"
 I answered, that I trusted the words of my noble grandsire would
 remain prophetic forever. He then gave as a toast:--
 
-"Phœnicia and Egypt, twin sisters of Isis, and health to their fair
+"Phoenicia and Egypt, twin sisters of Isis, and health to their fair
 queens!"
 
-This was well received. Mœris was, however, evidently deep in his
+This was well received. Moeris was, however, evidently deep in his
 cups, and soon became quarrelsome towards Remeses, to whom he said,
 with a sneer--
 
 "You and I, prince, when the queen, my aunt, has departed to the
 shades of the realm of Osiris, will divide Egypt between us. I will be
-content with the Thebaïd country, and will defend your borders on that
+content with the Theba�d country, and will defend your borders on that
 side. Two crowns are too much for one man's head, albeit you have a
 large one upon your shoulders!"
 
-"Prince Mœris," said Remeses, with a look of indignation, "forget
+"Prince Moeris," said Remeses, with a look of indignation, "forget
 not yourself in my mother's palace!"
 
 Thus speaking, the son of Amense rose from the table, and I followed
@@ -4312,12 +4344,12 @@ come to her."
 he hastened to the wing of the palace occupied by his mother and the
 ladies of her retinue.
 
-The queen had left the table some time before Prince Mœris began to
+The queen had left the table some time before Prince Moeris began to
 converse with me, excusing herself on the plea of slight fatigue and
 indisposition; for she had passed an hour that day in giving
 directions to the chief architect, to whom was intrusted the erection
 of her obelisk, outside of the gate of the Temple of the Sun. Remeses
-had been gone but a few moments, when I beheld Prince Mœris borne
+had been gone but a few moments, when I beheld Prince Moeris borne
 across the terrace by his servants to his chariot, in a state of
 helpless intoxication.
 
@@ -4369,11 +4401,11 @@ Add the myriads of human beings, the crowded galleys, the thronged
 shores, the eighty thousand soldiers encamped on the west plain, the
 army of chariots drawn up on the east bank, and farther up, opposite
 the aqueduct of Pharaoh Apophis, a battalion of twelve thousand
-cavalry manœuvering, and the scene which I, an hour since, beheld
+cavalry manoeuvering, and the scene which I, an hour since, beheld
 from the top of the gateway, is before you.
 
 Since I wrote the last sentence, I have witnessed a naval review, with
-a sham battle. The Prince Mœris, in a gorgeous galley decorated
+a sham battle. The Prince Moeris, in a gorgeous galley decorated
 with all the emblems of the cities and nomes of Egypt, after
 displaying the skill of his one hundred oarsmen, and the swiftness of
 his vessel in front of the palace, before the eyes of the queen, moved
@@ -4405,11 +4437,11 @@ battle-fierceness of the whole, presented a spectacle of sublimity
 unequalled. Nor was it without an element of terror. Such was the
 excited manner of the simulating combatants, I believed that no
 earthly power could prevent a real collision and hand-to-hand conflict
-in hot blood, when, at a signal from the Prince Mœris, the rowers
+in hot blood, when, at a signal from the Prince Moeris, the rowers
 of the leading galleys turned suddenly, as they came within touch of
 each other's sweeps, and so, one after another wheeling in line, both
 divisions passed down the river, until they moved in parallel columns.
-The whole manœuvre was one of the most wonderful exhibitions of
+The whole manoeuvre was one of the most wonderful exhibitions of
 naval discipline and generalship. Ere the shouts of the people on the
 shores and in the numerous pleasure barges had died away, the two
 columns, at a signal from the mast of the ship of their admiral, came
@@ -4450,7 +4482,7 @@ entirely round the island, they resumed their former line, two or
 three with broken banks of oars, and shattered poops or prows from
 collision.
 
-Prince Mœris came on shore to receive the compliments of the queen,
+Prince Moeris came on shore to receive the compliments of the queen,
 and dined with us. Remeses was not present, being with the cohorts of
 cavalry; for he is visiting and inspecting every arm of the service,
 as it is intended this shall be the most formidable host that has ever
@@ -4547,7 +4579,7 @@ created, to whom the Supreme Intellect of the Universe delegates a
 part of His authority and power over man and nature? Such, in its
 purity, is our Egyptian idea of gods."
 
-"Such is not the Phœnician," I answered, hesitatingly; for I felt
+"Such is not the Phoenician," I answered, hesitatingly; for I felt
 how far in advance of the hero demigods of our Assyrio-Median
 mythology was the Egyptian theological conception of a god, while the
 still sublimer idea held by Remeses, that they are celestial princes
@@ -4566,7 +4598,7 @@ of our religion and learning to you Tyrians, my Sesostris."
 phonetic alphabet, which your scholars are already making use of,
 though I learn the priests oppose it as an invasion upon the sacred
 writing of the hieroglyphic representations. I have seen here many
-rolls of papyrus written in our Phœnician letter, in the vernacular
+rolls of papyrus written in our Phoenician letter, in the vernacular
 Koptic words, and executed with taste and beauty."
 
 "It is not pictorial, and therefore the priests, who are all artists
@@ -4596,7 +4628,7 @@ mummy case.
 
 It soon landed, and we resumed our conversation.
 
-"You are aware, O prince," I said, turning to him, "that Phœnicia
+"You are aware, O prince," I said, turning to him, "that Phoenicia
 was settled among the first of the nations, after Typhon sent the
 flood of waters to destroy Osiris upon earth. Of course you Egyptians
 believe in the universal inundation of the earth?"
@@ -4639,7 +4671,7 @@ created celestial powers, high above men; or animated forms
 representing the Deity incarnate and comprehensible to the senses.
 Baalbec was a city built to Bel or Belus, who, like your Osiris, is
 the symbol of the sun, which, of burnished gold, he displayed upon his
-shield in battle. In Phœnicia we call him 'the Lord of the Sun,'
+shield in battle. In Phoenicia we call him 'the Lord of the Sun,'
 and the 'Sun-God.' We pay him divine honors by sacrifices, libations,
 and offerings of incense. And this recalls a discovery I recently made
 in On, that the true meaning of Re and of On is not 'the City of the
@@ -4662,7 +4694,7 @@ I have before said to you, the Invisible is so veiled from the people,
 by the visible forms under which he is offered to them by the
 priesthood, that while _we_ adore the God of power and strength in
 Apis, _they_ worship the bull himself: while _we_ in the form of
-Horus, with his uræus and disk, adore Him who made him a benefactor to
+Horus, with his ur�us and disk, adore Him who made him a benefactor to
 men and a pursuer of evil, _they_ bow down to the hawk-headed statue
 of porphyry and worship the sculptured colossus of stone. But I
 interrupt you. Proceed, if you please, with the account of the origin
@@ -4674,7 +4706,7 @@ and Astarte."
 "Are not these your Osiris and Isis?" asked the prince readily.
 
 "I will first explain," said I, not immediately answering his
-question, "what we in Phœnicia think of Isis. The priests teach
+question, "what we in Phoenicia think of Isis. The priests teach
 that the identity of the goddess Io, who is worshipped with rites
 unusually imposing at Byblos, is one with Isis."
 
@@ -4686,14 +4718,14 @@ divinity Osiris in Egypt. Indeed the priests at Byblos claim to have
 the sepulchre of Osiris among them, and maintain that all the rites
 which are commonly referred to Adonis properly relate to Osiris."
 
-"Then Egypt derives Osiris from Phœnicia?" remarked Remeses, with a
+"Then Egypt derives Osiris from Phoenicia?" remarked Remeses, with a
 slight movement of the brows, and a smile.
 
 "Without doubt," I replied. "In Tyre we call Egypt the daughter of
-Phœnicia."
+Phoenicia."
 
 "The daughter has out-grown the mother, dear Sesostris. We are proud
-of our parentage. We bow to Phœnicia as the mistress of letters and
+of our parentage. We bow to Phoenicia as the mistress of letters and
 queen of the merchants of the earth. But what think the priests of
 Baalbec of Osiris and Isis?"
 
@@ -4708,7 +4740,7 @@ not beyond them. We elevate them to the heavens and to the moon, and
 call them our gods. Truly, in the presence of the sublimer, purer myth
 which is the element of your faith, O Remeses, I feel that I am not
 far above the Barbara kings of Southern Africa, who deify each his
-predecessor. The priests of Isis, when they were in Phœnicia,
+predecessor. The priests of Isis, when they were in Phoenicia,
 attempted to elevate our worship; but we are still idolaters, that is,
 mere men-worshippers. Or, where we do not pay them divine honors, we
 offer them to the sun, and moon, and stars. I must be initiated, O
@@ -4731,7 +4763,7 @@ but One in Three. That these three are not three deities, just as in
 geometry the three sides and three angles are not three triangles, but
 one triangle. That in order to bring this mystery to a level with the
 minds of men, light was symbolized by the sun, life by Astarte, truth
-by Adonis. In the temple of Bel-Pheor, in Cœle-Syria, the sun
+by Adonis. In the temple of Bel-Pheor, in Coele-Syria, the sun
 itself is worshipped as light, life, and truth in one; his rays
 representing light, his heat life, his material disk or body truth."
 
@@ -4762,9 +4794,9 @@ sublime its choral worship. It is in Syrio-Euphrates, and is so shaded
 by palms that it has the aspect, in approaching it across the desert,
 of being an oasis filled with temples."
 
-"Is not Phœnicia a lovely land, Sesostris?" he asked, at the same
+"Is not Phoenicia a lovely land, Sesostris?" he asked, at the same
 time returning the salutation of the admiral, Pathromenes, who passed
-in his war-galley, on his way to join the Prince Mœris, whose fleet
+in his war-galley, on his way to join the Prince Moeris, whose fleet
 sails to-morrow on its expedition. I was glad, also, to behold again
 my courteous friend of the Pelusian coast, and cordially received and
 answered his polite and pleased recognition of my person.
@@ -4772,7 +4804,7 @@ answered his polite and pleased recognition of my person.
 "It is indeed a lovely land, with its verdant plains, majestic
 mountains clothed with cedar, and beautiful but narrow rivers. It is
 covered with fair cities from the peninsula of Tyre to the further
-limits of Cœle-Syria, and is a rich and lovely kingdom, populous
+limits of Coele-Syria, and is a rich and lovely kingdom, populous
 and happy. Its two great cities, Tyre and Sidon, are called the eyes
 of the world."
 
@@ -4863,7 +4895,7 @@ are at the terrace-steps, my lord of Memphis!"
 
 Here he bowed low, holding his hand to his heart, and left us to
 superintend the landing of the galley, at the porphyry staircase of
-the propylæum of the palace.
+the propyl�um of the palace.
 
 "Sesostris," said the prince to me, "has the idea occurred to you that
 this world may be a globe, suspended in subtle ether, and in diurnal
@@ -4902,7 +4934,7 @@ PALACE OF RHODA, ON THE NILE.
 MY BELOVED MOTHER:
 
 In my last letter I narrated a conversation between Prince Remeses and
-myself, upon the myths of Egypt and Phœnicia, and other subjects,
+myself, upon the myths of Egypt and Phoenicia, and other subjects,
 while being borne in his galley from the Memphis bank of the river
 down to the Island of Rhoda. I have already described this beautiful
 isle, and spoken of it as the favorite residence of the queen. It is
@@ -4925,7 +4957,7 @@ the events which transpired.
 Early this morning, when the queen and Remeses and I were about to be
 seated at our repast; and, as the pious custom of the Egyptians of all
 ranks is, Remeses having just asked the blessing of the gods before
-partaking, lo! Prince Mœris, lord of the Thebaïd, came in
+partaking, lo! Prince Moeris, lord of the Theba�d, came in
 unannounced, accompanied by his favorite lion, which always follows
 his steps or stalks by his side, and said, with bluntness unsuited to
 the presence--
@@ -4975,7 +5007,7 @@ perished with his armies!"
 I will not describe the tenderness of the parting between the queen
 and Remeses, whom she would have held, refusing to release him, if he
 had not gently disengaged himself, taken up his sword and helmet, and
-hastened from the apartment. Prince Mœris, with a haughty bow to
+hastened from the apartment. Prince Moeris, with a haughty bow to
 the queen, for whom he seems to entertain bitter dislike, had already
 taken his departure with his captains at his heels. I followed
 Remeses, and together we crossed to the shore on the side of On, and
@@ -5012,7 +5044,7 @@ alienate her crown and confer her sceptre upon any one she chose to
 adopt. Indeed, I now remember that, by our laws, it would be necessary
 for her publicly and ceremoniously adopt him as her son before he
 could reign--since a nephew, by the ancient Memphitic law regulating
-succession, cannot inherit. Mœris would, therefore, have to be
+succession, cannot inherit. Moeris would, therefore, have to be
 adopted."
 
 "Then he would never reign," I said.
@@ -5022,7 +5054,7 @@ indignant emotion--
 
 "Sesostris, my mother fears that evil young prince. He possesses over
 her an inexplicable power. To this influence he owes his elevation,
-from being a mere governor of Saïs, to the viceroyalty of Upper Egypt.
+from being a mere governor of Sa�s, to the viceroyalty of Upper Egypt.
 He would not fail, should I fall, to exert his mysterious power over
 her mind, and his ambition would prompt him to aim at even the throne
 of all Egypt. But let us mount!" he added, as we touched the shore.
@@ -5054,7 +5086,7 @@ rallying around it in the midst of battle.
 Prince Remeses was in a few moments surrounded by his generals and
 chief warriors, to whom he made known the advance of the Ethiopian
 king, Occhoris, upon Thebes,--intelligence of which he and the queen
-had received by a mounted messenger, while Prince Mœris, who had
+had received by a mounted messenger, while Prince Moeris, who had
 come to announce it also, was in her apartment. In a few words he made
 known his orders to each general in succession, who, making a low
 military obeisance, by bowing the head and turning the sword-point to
@@ -5079,7 +5111,7 @@ throne, attended by more than one hundred inferior priests, advanced
 from the inner shrine upon a marble terrace, in the centre of which
 stood the iron-columned pavilion that inclosed the shrine of the god.
 He was attired in a grand and imposing costume, having a tiara,
-adorned by a winged sun sparkling with jewels, and the sacred uræus,
+adorned by a winged sun sparkling with jewels, and the sacred ur�us,
 encircling his brows. He wore a flowing robe of the whitest linen,
 descending to his feet. A loose upper cape of crimson, embroidered
 with gold, and having flowing sleeves, was put on over the robe. Still
@@ -5162,7 +5194,7 @@ The vases contained every imaginable article that, at the moment, a
 common soldier might have about his person. There were rings of
 silver, of copper, of wood, of glass; dried figs, tamarinds, dates,
 and raisins; garlics, leeks, onions, bits of inscribed papyrus,
-palm-leaves, flowers innumerable, scarabæi of burnt clay, pebbles, and
+palm-leaves, flowers innumerable, scarab�i of burnt clay, pebbles, and
 metal; seeds of the melon and radish, and incense-gum; little clay
 images of Mars, of various weapons, and of Osiris. There were also
 myrrh, resin, and small pots of ointment; pieces of iron, fragments of
@@ -5292,7 +5324,7 @@ all over the plain, and echoed back from Cheops, the whole host formed
 in columns of march. Remeses, I being in his company, galloped forward
 and took a position on an elevation, from which he reviewed the whole
 army as it tramped by. The fleet was in parallel motion at the same
-time, and I saw the splendid galley of the Prince Mœris, with its
+time, and I saw the splendid galley of the Prince Moeris, with its
 colored silken sails, and golden beak, gallantly ascending the river.
 He stood upon the poop; a tame lion crouched by his side, on the tawny
 shoulders of which he rested one foot as he gazed at us. The division
@@ -5449,7 +5481,7 @@ who, at parting from me a stadium above Memphis, said:
 
 "My Sesostris, be near my mother, and in the pleasure of your society,
 let her regrets at my absence find compensation. When you have seen
-all of Lower Egypt, come to the Thebaïd, and go with me and my army
+all of Lower Egypt, come to the Theba�d, and go with me and my army
 into Ethiopia."
 
 I promised that I would follow him by and by; but now I am engaged in
@@ -5829,7 +5861,7 @@ my friend, the Admiral Pathromenes, whom I visited the day I saw him
 in his galley, and just before he sailed with the fleet for Ethiopia.
 
 On entering the portal, I passed into an open court, on the right side
-of which was the mándara or receiving-room for visitors, where
+of which was the m�ndara or receiving-room for visitors, where
 servants took my sandals, and offered water for my hands in silver
 ewers, at the same time giving me bouquets of flowers. This room,
 surrounded by gilt columns, and decorated with banners, was covered by
@@ -5911,7 +5943,7 @@ builded by art, but made by the gods themselves as meet places for
 their own worship. I question, dear mother, if the subsequent descent
 of religion from its solemn shrines, in the dark forests of Libanus,
 into the valleys and cities, to be enshrined in temples of marble,
-however beautiful, has elevated it. Though the Phœnicians built the
+however beautiful, has elevated it. Though the Phoenicians built the
 first temples on the peninsula of Tyre, before any others existed,
 save in groves; yet in Egypt (which claims also this honor), the
 "houses of the gods," in their vast and pyramidal aspects, their
@@ -5923,11 +5955,11 @@ Your visit to the temple of Tammuz, at Sareptha, recalls a legend
 which, singularly enough, I first heard in Egypt, of the origin of the
 rites to that deity.
 
-The books of the priests here, relating to Phœnician, Sabæan,
+The books of the priests here, relating to Phoenician, Sab�an,
 Persian, and Chaldean ceremonies (for the learning of the Egyptians
 seems to embrace a knowledge of books of all countries), relate
-that Tammuz was a "certain idolatrous prophet of the Sabæan
-Fire-worshippers, who called upon King Ossynœces, our remote
+that Tammuz was a "certain idolatrous prophet of the Sab�an
+Fire-worshippers, who called upon King Ossynoeces, our remote
 ancestor, and commanded him to worship the Seven Planets and the
 Twelve Signs of the constellations. The king, in reply, ordered him to
 be put to death. On the same night on which he was slain," continues
@@ -5940,8 +5972,8 @@ weeping and mourning, which they continued until daylight, when they
 all departed through the air, returning to their respective temples in
 the most distant regions of the earth." Such, dear mother, is the
 tradition here of the origin of the weeping for Tammuz, the observance
-of which now forms so important a feature in our Phœnician worship,
-although introduced, as it was, from the Sabæans themselves.
+of which now forms so important a feature in our Phoenician worship,
+although introduced, as it was, from the Sab�ans themselves.
 
 But the more I have conversed with the wise and virtuous Prince
 Remeses, the more I feel the gross nature of our mythology, O mother,
@@ -6186,13 +6218,13 @@ ebony. I saw the dark, handsome men of Tarshish and far Gades, with
 all kinds of riches of silver, iron, tin, lead, and scales of gold.
 Shields from Arvad, beautifully embossed and inlaid; helmets and
 shawls from Persia; ivory from Ind, and boxes of precious stones--the
-jasper, the sapphire, the sardiüs, the onyx, the beryl, the topaz, the
+jasper, the sapphire, the sardi�s, the onyx, the beryl, the topaz, the
 carbuncle, and the diamond--from the south seas, and those lands under
 the sun, where he casts no shadow. There were, also, wild-looking
 merchant horsemen from Arabia, with horses and mules to be traded for
 the fine linen, and gilt wares, and dyes of Egypt; and proud-looking
 shepherd chiefs of Kedar, with flocks of lambs, rams, and goats; while
-beyond these, some merchants of Saïs, men of stern aspects, bad bands
+beyond these, some merchants of Sa�s, men of stern aspects, bad bands
 of slaves, whose shining black skins and glittering teeth showed them
 to be Nubians from Farther Africa, who had been brought from the Upper
 Nile to be sold in the mart.
@@ -6289,7 +6321,7 @@ monster, represented either with the head of a man, a hawk, or a ram;
 to these may be added a vulture with a serpent's head, and a
 tortoise-headed god.
 
-The phœnix, sacred to Osiris, I shall by and by speak of, and the
+The phoenix, sacred to Osiris, I shall by and by speak of, and the
 white and saffron-colored cock, sacred to, and sacrificed in, the
 Temple of Anubis. Certain fishes are also held sacred by this
 extraordinary people, who convert every thing into gods. The
@@ -6300,7 +6332,7 @@ the god Savak--a barbarous deity. Serpents having human heads, and
 also hawk's and lion's heads, were sculptured along the frieze of this
 pantheon, intermingled with figures of nearly all the above sacred
 animals. On the abacus of each column was sculptured the
-scarabæus--the sacred beetle--consecrated to Pthah, and adopted as an
+scarab�us--the sacred beetle--consecrated to Pthah, and adopted as an
 emblem of the world; also the type of the god Hor-hat, the Good Genius
 of Egypt, whose emblem is a sun supported by two winged asps
 encircling it. Flies, ichneumons, and bees, with many other insects
@@ -6368,7 +6400,7 @@ mariner, recognized by me as such by his dress, who was flying across
 the square with wings of fear. A crowd, which momentarily increased,
 pursued him swiftly with execrations and cries of vengeance! As he
 drew near, I noticed that he was as pale as a corpse. Seeing that he
-was a Phœnician, I felt interested in him, and by a gesture drew
+was a Phoenician, I felt interested in him, and by a gesture drew
 him towards me. He fell at my feet, crying--"Save me, O my prince!"
 
 "What hast thou done?" I demanded.
@@ -6426,7 +6458,7 @@ jet-black in color, with the exception of a square spot of white upon
 his forehead. Upon his shoulder was the resemblance of a vulture, and
 the hairs were double in his tail! These being the sacred marks of
 Apis, I observed them particularly: there should be also the mark of a
-scarabæeus on his tongue.
+scarab�eus on his tongue.
 
 The deity stalked proudly forth, slowly heaving up and down his huge
 head and thick neck,--a look of barbaric power and grandeur glancing
@@ -6479,7 +6511,7 @@ the bull called out, in reply to something said by another--
 "He will never get there!"
 
 "Mark those words, Sesostris!" he said, not unimpressed by them; "my
-mother is to outlive me, or Mœris will seize the throne from me!"
+mother is to outlive me, or Moeris will seize the throne from me!"
 
 "Do you put faith in this omen?"
 
@@ -6534,7 +6566,7 @@ probation, he was admitted to the houses of the gods and became
 immortal.
 
 The prince assures me that the belief in the transmigration of souls
-is almost universal in the Thebaïd, as well as among the lower orders
+is almost universal in the Theba�d, as well as among the lower orders
 in the northern nomes; and that the universal reverence for animals
 is, without doubt, in a great measure to be traced to this sentiment.
 A monstrous doctrine of the perpetual incarnation of deity in the
@@ -6614,7 +6646,7 @@ obsequies are celebrated on a scale of grandeur and expenditure hardly
 conceivable. Sometimes the rich treasury of the temple, though filled
 with the accumulated gold of a quarter of a century, is exhausted.
 Upon the death of the last Apis, the priests expended one hundred
-talents of gold in his obsequies, and Prince Mœris, who seeks every
+talents of gold in his obsequies, and Prince Moeris, who seeks every
 opportunity to make a show of piety, and to please the Egyptians, gave
 them fifty talents more, to enable them to defray the enormous costs
 of the funeral of the god.
@@ -6689,16 +6721,16 @@ was similar in display and the mode of entertaining the guests.
 
 I was seated opposite the daughter of the Priest of Mars, of whose
 beauty I have before spoken. She asked many questions, in the most
-captivating way, about Tyre, and yourself, and the Phœnician ladies
+captivating way, about Tyre, and yourself, and the Phoenician ladies
 generally. She smiled, and looked surprised, when I informed her that
 I was betrothed to the fair Princess Thamonda, and asked me if she
 were as fair as the women of Egypt. She inquired if Damascus had
-always been a part of Phœnicia, and how large your kingdom was.
+always been a part of Phoenicia, and how large your kingdom was.
 When I told her that your kingdom was composed of several lesser
 kingdoms, once independent, but now united far east of Libanus, under
 your crown, she inquired if you were a warlike queen to make such
 conquests. I replied that this union of the free cities of
-Phœnicia, and of the cities of Cœle-Syria under your sceptre,
+Phoenicia, and of the cities of Coele-Syria under your sceptre,
 was a voluntary one, partly for union against the kings of Philistia,
 partly from a desire to be under so powerful and wise a queen. She
 said that if the danger were passed, or you were no more, the kings of
@@ -6939,7 +6971,7 @@ speed in the excitement of a race, each driving his own ornamented
 car, the charioteers standing a little in the rear.
 
 People selling little images of gods, or of eminent deceased persons,
-or fruit, or flowers, or scarabæi, and amulets, were seated all along
+or fruit, or flowers, or scarab�i, and amulets, were seated all along
 the highway, upon pedestals, or in the shade of statues and tombs;
 while along the road walked sellers of vegetables, and fowls, and
 bread. Indeed, the way was crowded with life and activity. With no
@@ -6967,7 +6999,7 @@ funeral of a lady. I never saw any painting so rich as that which
 adorned the mummy-case. It was an Osirian coffin, and covered in every
 part with columns of hieroglyphics or emblematical figures, among
 which were represented the winged serpent, the ibis, the cynocephalus
-or the genii of Amenthe, and the scarabæus.
+or the genii of Amenthe, and the scarab�us.
 
 "The hieroglyphics," said my companion, "contain the name and
 qualities of the deceased."
@@ -7242,7 +7274,7 @@ massive pillars of the colonnade. Between his fore-paws, which extend
 fifty feet, while the body is nearly three times this measure, stands
 a beautiful temple faced with oriental alabaster. His head is crowned
 with a helmet slightly convex, upon which, like a crest, is affixed
-the sacred uræus or serpent, shining with gold. The cape or neck-band
+the sacred ur�us or serpent, shining with gold. The cape or neck-band
 of the helmet is of scales, colored blue, red, green, and orange,
 intermingled with gilding. A great and full beard descends over his
 breast, immediately under which, and between his feet, is the summit
@@ -7294,7 +7326,7 @@ mountains, and also with the destruction of the gigantic gods by the
 uprising of unknown oceans upon the globe. The tablet holds his
 shield, and on it is pictured the escape of the son of the ancient
 gods, in a ship, which is resting upon a mountain peak. In this
-tradition, mother, we find repeated our Phœnician history of the
+tradition, mother, we find repeated our Phoenician history of the
 flood, before the days of the first kings. Without doubt all nations
 retain a similar tradition. Upon the same tablet is also a
 representation of a later king offering incense and libations to the
@@ -7839,7 +7871,7 @@ laughing, "are not near so wonderful as my table of emerald."
 
 "Lest," said Osiria, "you should imagine I am drawing upon my fancy, I
 will read to you the remainder of the tradition from the ancient book
-in the keeping of the priests of Amun, in the Thebaïd, given me by my
+in the keeping of the priests of Amun, in the Theba�d, given me by my
 mother, who was the daughter of the priest of the sacred house there."
 
 Having thus spoken the maiden retired, and, after a few minutes
@@ -7942,7 +7974,7 @@ priest, smilingly. "But you have not told the prince the whole of the
 tradition."
 
 "It is true. I must now state how the pyramid was opened by one of the
-Phœnician conqueror kings. This Philistine warrior, whose barbaric
+Phoenician conqueror kings. This Philistine warrior, whose barbaric
 name I have forgotten, and do not wish to remember, on seeing the
 pyramids, demanded to know what was within them. He was answered by
 the priest of the sphinx, who is the guardian of the two pyramids,
@@ -7960,7 +7992,7 @@ work with sharpened iron and copper wedges, and huge engines to remove
 the stones. It was a vast work, as the thickness of the wall was
 twenty cubits. They were many months reaching an apartment within,
 where they found a ewer made of bright-green emerald, containing a
-thousand dinars, very weighty, one hundred chœnixes of gold-dust,
+thousand dinars, very weighty, one hundred choenixes of gold-dust,
 twenty blocks of ebony, a hundred tusks of ivory, and a thousand
 ounces of rings of Arabic gold.
 
@@ -8010,7 +8042,7 @@ of his feet on the floor, and a statue larger than life, of pure
 crystal, was displayed to his sight. This statue represented a king
 upon whom was a breastplate of gold set with jewels; on his breast was
 a stone of incalculable price, and over his head, a carbuncle of the
-shape and bigness of the sacred egg of the phœnix, shining like the
+shape and bigness of the sacred egg of the phoenix, shining like the
 light of the day. He held upon his left arm a shield formed of one
 single topaz, upon which were characters written with a pen, that
 neither the king, nor the wise men, nor astrologers, nor magicians,
@@ -8095,11 +8127,11 @@ derive all our knowledge."
 
 "Can you, then," I asked, "explain to me one thing that has been
 alluded to in our conversation? I am desirous of knowing something
-about the phœnix, which I see even now represented, inlaid in
+about the phoenix, which I see even now represented, inlaid in
 ivory, upon this table of vases."
 
 "I fear that I shall not be able, prince, to make you understand,
-what, I confess, I am not well informed upon. The phœnix has always
+what, I confess, I am not well informed upon. The phoenix has always
 been a mystery to me."
 
 "I understand the bird," said Osiria, "to be the symbol of a star. But
@@ -8130,7 +8162,7 @@ attendant at all times when he walks abroad. Nearly every lord has his
 hounds; and to own a handsome dog is as much a mark of rank, as is the
 slender acacia cane.
 
-"The phœnix, according to the ancients," said the priest, "is a
+"The phoenix, according to the ancients," said the priest, "is a
 bird of which there exists but one specimen in the world. It comes
 flying from the east once in the course of six hundred and fifty-one
 years, many other birds with dazzling wings bearing it company. It
@@ -8140,7 +8172,7 @@ concentrated rays of the sun, as they are reflected from the golden
 shield thereon with consuming radiance. No sooner is it consumed to
 ashes, than an egg appears in the funeral pyre, which the heat that
 consumed the parent warms instantly into life, and out of it the same
-phœnix comes forth, in full plumage, and spreading its wings it
+phoenix comes forth, in full plumage, and spreading its wings it
 flies away again, to return no more until the expiration of six
 hundred and fifty-one years!"
 
@@ -8155,7 +8187,7 @@ bird?"
 
 "I have seen it," answered the priest, mysteriously. "But I will
 gratify your curiosity. The first recorded appearance of this
-phœnix was nineteen hundred and two years ago, in the reign of
+phoenix was nineteen hundred and two years ago, in the reign of
 Sesostris, a king of the twelfth Egyptian dynasty."
 
 "The Pharaoh for whom I am named," I said.
@@ -8164,11 +8196,11 @@ Sesostris, a king of the twelfth Egyptian dynasty."
 
 "The memory of Sesostris the Great was highly venerated by my father,
 and hence his selection of it for me; besides, I am related to the
-Phœnician kings."
+Phoenician kings."
 
 I had no sooner made this unlucky confession, than the two sisters
 looked at their father, then interchanged glances, and appeared quite
-embarrassed. I at once reflected that the memory of the Phœnician
+embarrassed. I at once reflected that the memory of the Phoenician
 dynasty is distasteful to the Egyptians; and that, by confessing my
 alliance with them, I had risked their good-will. But the surprise
 passed off instantly, for they were too well-bred to show any
@@ -8182,27 +8214,27 @@ he will reappear, to consume himself in the burning rays of the sun."
 "This singular myth," pursued the hierarch, "signifies to us of the
 priests who are initiated into these astrological mysteries, nothing
 more than the transit of the planet Mercury across the disk of the
-sun. The fabulous bird, the phœnix, is an emblem of Mercury, as
+sun. The fabulous bird, the phoenix, is an emblem of Mercury, as
 Osiris is of the Sun, according to the teaching of the books of Isis."
 
 "I perceive the whole truth now," I answered.
 
 "What is it, my lord prince?" asked the sisters.
 
-"There is but one planet Mercury, as there was but one phœnix. The
-City of the Sun, or the Temple of the Sun, on which the phœnix was
+"There is but one planet Mercury, as there was but one phoenix. The
+City of the Sun, or the Temple of the Sun, on which the phoenix was
 said to consume himself, is simply the Sun, or the house of the god
 Sun, in which Mercury, during his passage across the disk, may be said
-to be consumed by fire. As the phœnix consumes himself once every
+to be consumed by fire. As the phoenix consumes himself once every
 six hundred and fifty-one years, at the vernal equinox,--so say our
-Sabæan books, kept in the Temple of Hercules at Tyre,--Mercury once
+Sab�an books, kept in the Temple of Hercules at Tyre,--Mercury once
 every six hundred and fifty-one years enters the flames of the sun on
-nearly the same days of the year! As the phœnix flies from the east
+nearly the same days of the year! As the phoenix flies from the east
 westward to the City of the Sun, so the course of Mercury is from east
-to west athwart the sun. While the phœnix in its passage to the
+to west athwart the sun. While the phoenix in its passage to the
 City of the Sun is attended by a flight of dazzling birds, so Mercury
 in its passage across the disk of the sun is accompanied by bright,
-scintillating stars in the heavens around. As the phœnix came forth
+scintillating stars in the heavens around. As the phoenix came forth
 anew out of the flames which had consumed him to ashes, so Mercury,
 while in the direct line of the sun, is lost to the vision as if
 consumed, but, having crossed its disk, reappears and flies away on
@@ -8212,7 +8244,7 @@ solution, my lord priest?" I asked.
 "You have well solved the riddle," he answered; "and I must compliment
 you on your knowledge of astrology, O prince. In Egypt we are
 acquainted with this science, but it is not expected of strangers. In
-all the years in which the phœnix, according to the 'Books of the
+all the years in which the phoenix, according to the 'Books of the
 Stars,' is said to have destroyed himself with fire in the City of On,
 Mercury has likewise performed his transits over the sun, according to
 the calculations of our hierogrammatists, whose duty it is to keep
@@ -8225,11 +8257,11 @@ playfully:
 
 "What a beautiful mystery you have destroyed with your science and
 learning, my lord! I have from a child delighted in the mysterious
-story of the phœnix."
+story of the phoenix."
 
 "We have mysteries enough left in our mythology and astrology, my dear
 wife," he answered. "There is scarcely a deity of the land who is not
-in his origin a greater mystery than the phœnix. Around them all
+in his origin a greater mystery than the phoenix. Around them all
 are clouds and mists, often impenetrable by the limited reason of man;
 and in many lands, as it was anciently in Egypt, the word for religion
 is 'mystery.'"
@@ -8278,8 +8310,8 @@ MY DEAR MOTHER:
 
 I have received from the Prince Remeses a letter informing me of the
 arrival of each division of his army, chariots, horse, and footmen,
-with the fleets under the viceroy Mœris, at the city of the
-Thebaïd. They entered it, however, as conquerors, for the Ethiopian
+with the fleets under the viceroy Moeris, at the city of the
+Theba�d. They entered it, however, as conquerors, for the Ethiopian
 king had already taken possession of it with his advanced guard.
 
 I will quote to you from the letter of the prince:
@@ -8369,7 +8401,7 @@ I will quote to you from the letter of the prince:
  the pylon which looks towards the south, I see his vast army, with
  its battalion of elephants, its host of brazen chariots, its horsemen
  and footmen as numerous as the leaves. But I feel confident of
- victory. Prince Mœris has moved his galleys on the opposite side,
+ victory. Prince Moeris has moved his galleys on the opposite side,
  in order to ascend secretly by night and gain the rear of the enemy,
  who are without boats. My chariots, some five hundred in number, have
  been crossed over in safety to this side, to co-operate with the
@@ -8634,7 +8666,7 @@ smiling--
 colors, to which divine homage is paid,--visible representations of
 the invisible."
 
-"In Phœnicia we worship the sun, and also honor certain gods."
+"In Phoenicia we worship the sun, and also honor certain gods."
 
 "Then thou art not above the Egyptians. I saw thee bend in attitude of
 prayer at the sound of the sistrum. Dost thou believe that the sacred
@@ -8876,7 +8908,7 @@ MY DEAREST MOTHER:
 It is many weeks since my last letter was written. The interval has
 been occupied by me, in visiting all places of interest in Lower
 Egypt, previous to my voyage up the Nile, to the kingdom of the
-Thebaïd. But the intelligence that your last letter contains, of the
+Theba�d. But the intelligence that your last letter contains, of the
 misunderstanding arising between you and the King of Cyprus, and your
 fear that war may ensue, will compel me to abandon my tour to the
 Cataracts, and return to Tyre, unless the next courier brings more
@@ -8887,7 +8919,7 @@ will make due concessions, for his treatment of your shipwrecked
 merchantmen, when your ambassador disclaims all intention, on the part
 of your majesty, of planting an invading colony in any part of his
 shores, and assures him that the vessels, which he supposed brought a
-company of Phœnicians to occupy his soil, were driven thither when
+company of Phoenicians to occupy his soil, were driven thither when
 bound for Carthage and distant Gades. But should he refuse to release
 your subjects and to restore their vessels and goods, war would
 inevitably ensue, and I will hasten home to conduct it in person. Do
@@ -8957,13 +8989,13 @@ scarlet sails, and the bronzed and gilded heads of hawks, eagles,
 wolves, lions, and ibises upon the topmasts, presenting a grand and
 brilliant spectacle. Ever and anon, a loud, wild shout would swell
 along the water, from the victorious troops. One half of the fleet had
-been left in the Thebaïd country with Prince Mœris, who intended to
+been left in the Theba�d country with Prince Moeris, who intended to
 invade the interior of Ethiopia and menace its capital.
 
 You may imagine, dear mother, that Remeses had many questions to ask
 and answer, as well as I. I drew from him a modest narrative of his
 battles; but he spoke more freely of the brilliant courage of Prince
-Mœris than of his own acts. After we had sat in the moonlight, upon
+Moeris than of his own acts. After we had sat in the moonlight, upon
 the poop of his galley, conversing for several hours, I asked
 permission to see his royal captive, who I fancied was some wild
 savage chief, with the hairy head and neck of a lion, and the glaring
@@ -9030,7 +9062,7 @@ antagonism.
 
 He half-rose gracefully from his recumbent attitude, and said, with an
 indolent yet not undignified air, and in good Koptic, as it is spoken
-in the Thebaïd:
+in the Theba�d:
 
 "Welcome, Prince of Tyre! I am sorry I cannot extend to you the
 hospitality you merit. You see my kingdom is somewhat limited! As for
@@ -9041,7 +9073,7 @@ caravans of galleys, and plant your sandals in all lands. But you have
 not yet had Ethiopia beneath them."
 
 "Our commerce embraces even your own country's productions, O king!" I
-answered. "I have seen in the mart of Tyre chœnixes of gold-dust,
+answered. "I have seen in the mart of Tyre choenixes of gold-dust,
 ostrich-feathers, dried fruits and skins, vermilion, ebony, ivory, and
 even baboons, apes, and leopards. In return we send you our purples."
 
@@ -9365,7 +9397,7 @@ One evening, not long since, I strolled along the banks of the Nile,
 beneath a row of mimosa-trees, to enjoy the gay and attractive scenes
 upon the river. It was covered with gayly painted barges, containing
 happy family parties, whose musicians played for them as the rowers
-slowly and idly propelled the boat; others, in sharp-prowed barisæ,
+slowly and idly propelled the boat; others, in sharp-prowed baris�,
 darted in emulous races across the water; others were suspended upon
 the bosom of the stream, fishing for amusement; while others still
 moved about, with their beautifully pictured sails spread to the
@@ -9373,7 +9405,7 @@ gentle breeze, as if enjoying the panorama of the shores they were
 gliding past.
 
 I had rambled alone some distance up the river, without any vestige of
-my rank being apparent, in the plain Phœnician costume of a Tyrian
+my rank being apparent, in the plain Phoenician costume of a Tyrian
 merchant (which I often wear, to prevent constant interruption by the
 homage and prostrations of the deferent Egyptians), when I saw a small
 baris, containing a single person, coming close to the steps of the
@@ -9430,7 +9462,7 @@ He debarked, and giving an order to the slaves, placed his scroll of
 papyrus beneath his robe, and, ascending the steps, bowed low, and
 with singular courtesy (for the Hebrews, mother, are naturally the
 most polished and benignant people in the world), said in the
-Phœnician tongue--
+Phoenician tongue--
 
 "I am indebted to you, sir merchant, for my life! Your timely voice
 enabled me to save myself, although I have lost one of the poor Nubian
@@ -9676,7 +9708,7 @@ beautiful from its deep orange-color. These figures, though not a palm
 long, were valued at a talent. On all these images of the sacred calf,
 I perceived that the mark of the crescent between the shoulders was
 distinctly imitated, as well as the other peculiarities. Upon the head
-of some of them was a sun enwreathed by the sacred uræus.
+of some of them was a sun enwreathed by the sacred ur�us.
 
 "Does your temple derive a revenue from all this?" I asked the Hebrew.
 
@@ -9895,7 +9927,7 @@ nor the music of the harp, nor the happy songs of the chanters
 dissipate."
 
 "Do you not think," I said, "that this state of mind is connected with
-her illness before you left, when the viceroy Mœris dined with us?"
+her illness before you left, when the viceroy Moeris dined with us?"
 
 Remeses started, and fixed upon me his full gaze.
 
@@ -9904,7 +9936,7 @@ Remeses started, and fixed upon me his full gaze.
 "Because the queen has never been wholly well and cheerful since that
 day."
 
-"What think you of Prince Mœris? Speak freely."
+"What think you of Prince Moeris? Speak freely."
 
 "He is a proud, ambitious, and unprincipled man."
 
@@ -10069,10 +10101,10 @@ under which you are moved to this unusual step,' I said.
 of the Pharaohs, in the hall of Books, in the temple of Thoth. Within
 two thousand years, not less than seven kings and three queens have
 resigned the sceptre of Egypt to children or adopted heirs. The Queen
-Nitocris resigned to her adopted son, Myrtæus; Chomæphtha, after
+Nitocris resigned to her adopted son, Myrt�us; Chom�phtha, after
 reigning eleven years, weary with the weight of the crown, resigned it
-to her nephew, Sœconiosochus. Did not Phruron-Nilus, the great
-monarch, decide to abdicate in favor of Amuthantæus, his son, when
+to her nephew, Soeconiosochus. Did not Phruron-Nilus, the great
+monarch, decide to abdicate in favor of Amuthant�us, his son, when
 sudden death only prevented his retirement? The crowns of Egypt are
 _mine_, my son, by the laws of the gods, and of the ancestral kings
 from whom I have inherited them. I will not wait for the god of death
@@ -10085,38 +10117,38 @@ will hold rule long in Egypt!'
 "'Come, sit by me. Be calm, Remeses! Listen with your usual meekness
 and reverence to me when I speak.' I obeyed her, and she thus began:
 
-"'Thou knowest thy cousin Mœris;--his lofty ambition; his
+"'Thou knowest thy cousin Moeris;--his lofty ambition; his
 impatience; his spirit of pride; his lust for dominion, which his
-viceroyship in the Thebaïd has only given him an unlimited thirst
+viceroyship in the Theba�d has only given him an unlimited thirst
 for;--his jealousy and hatred of you, Remeses! None of these things
 are concealed from you, my son.' My mother paused as if for my assent,
 which I signified by a respectful bow. She continued:
 
-"'This Prince Mœris, for whom I have done all in my power--whom I
-have made second only to me in the Thebaïd, I have reason to know
+"'This Prince Moeris, for whom I have done all in my power--whom I
+have made second only to me in the Theba�d, I have reason to know
 seeks your ruin and my throne!'
 
 "'What proof hast thou of this?' I cried, deeply moved.
 
 "'Remeses,' said my mother, in ringing tones, 'I must unfold to thee
 all! I know how slow thou art to suspect or believe evil of any one;
-and that you fancy Mœris an honorable prince, overlooking his
+and that you fancy Moeris an honorable prince, overlooking his
 jealousy of you. You have confidence in my judgment and truth?'
 
 "'I have, the most undoubted and deferential,' I answered the queen.
 
 "'Then, my son, hear me!' she said, with a face as pale as the fine
-linen of her vesture. 'Prince Mœris possesses a secret (ask me
+linen of her vesture. 'Prince Moeris possesses a secret (ask me
 _not_ what it is) which gives him a dangerous power over me. He
 obtained possession of it years ago, how I know not; but it has placed
 in his hands a power that I tremble beneath. Nay, ask not! My heart
 itself would as soon open to thine eyes, under the shield of my bosom,
-as reveal its secret! It will die with me! Yet Mœris, my nephew--a
+as reveal its secret! It will die with me! Yet Moeris, my nephew--a
 man of talents and ambition, in morals most unprincipled, and in
 disposition cruel and unjust--holds my happiness in his hand!'
 
 "'My mother,' I cried, 'why then didst thou confer on him the
-principality of the Thebaïd and its enormous military power?'
+principality of the Theba�d and its enormous military power?'
 
 "'To bribe him, when he menaced me with the betrayal of what he knew!'
 was the queen's almost fierce rejoinder.
@@ -10134,7 +10166,7 @@ menaced me with the betrayal of the dreadful secret.'
 benefit or injure?' I asked, lost in amazement.
 
 "'Injure one whom--whom I love--destroy my happiness and
-hopes--benefit Mœris himself!' she answered coloring with deepest
+hopes--benefit Moeris himself!' she answered coloring with deepest
 confusion and alarm.
 
 "'Why not crush such a dangerous subject when he menaces your peace?'
@@ -10147,10 +10179,10 @@ your feet.'
 "'Nay, Remeses, I dare not. One word from his lips, though he were in
 chains, would reveal all it has been the study of my life to conceal,
 and give him all the revenge his bitter spirit would ask. No, no!
-Mœris must not be made angry. It is only his ambitious hopes that
+Moeris must not be made angry. It is only his ambitious hopes that
 keep him quiet.'
 
-"What are these hopes?" I inquired, feeling that henceforth Mœris
+"What are these hopes?" I inquired, feeling that henceforth Moeris
 and I were mortal foes.
 
 "Didst thou, O prince," said I, as he returned to his seat by me,
@@ -10163,9 +10195,9 @@ looked confused.
 
 "Unless what?" I asked, painfully interested.
 
-"Unless Mœris be the son of the Prince of the Thebaïd, and I the
-son of the brother of Pharaoh. In other words, that Mœris and
-Remeses have changed places, and that Mœris knows or suspects the
+"Unless Moeris be the son of the Prince of the Theba�d, and I the
+son of the brother of Pharaoh. In other words, that Moeris and
+Remeses have changed places, and that Moeris knows or suspects the
 fact."
 
 "A most extraordinary idea!" I exclaimed; yet at the same time, I must
@@ -10185,7 +10217,7 @@ Irresistibly, my mother's anxiety to impress upon me that she had been
 and especially her uncalled for reiterations of affection for me, and
 of appeals to my devotion to her;--all this rushed upon my memory, and
 with a dizzy brain, and a heart full of anguish, under the dreadful
-suspicion, I cried, 'Why must not Prince Mœris be made angry? Why
+suspicion, I cried, 'Why must not Prince Moeris be made angry? Why
 may he not be prevented from doing thee harm?'
 
 "'I have told you,' she replied, with a deadly pallor. 'Remeses, your
@@ -10200,7 +10232,7 @@ not come between me and thee, and the throne.'
 
 "'He has no claim to the throne. He does not aspire to it in your
 lifetime,' I said; 'and if I hold it after, I will take care of my own
-crown. My mother, fear not Prince Mœris. Let his secret perish with
+crown. My mother, fear not Prince Moeris. Let his secret perish with
 him.'
 
 "'And thou, also, Remeses!' she said, passionately.
@@ -10226,8 +10258,8 @@ staring me in the face, gasped--
 "'No one, _no one_, my dearly loved mother,' I answered, tenderly. And
 when I saw that she was more composed, I said, 'It was only a
 conjecture--a wild suspicion--for I could not comprehend the mystery
-between you and my cousin Mœris, except that (as has been done in
-former dynasties) he and I are in each other's places. Is Mœris thy
+between you and my cousin Moeris, except that (as has been done in
+former dynasties) he and I are in each other's places. Is Moeris thy
 son, and am I the son of the brother of Amunophis?'
 
 "I had no sooner said this, than she raised her head from the
@@ -10235,17 +10267,17 @@ gold-embroidered purple cushion of the ivory couch, on which she lay
 reclining against my arm, and with a strange laugh of joy and
 surprise, said,--
 
-"'So this is _all_, Remeses! Then thou needest not fear. Mœris is
+"'So this is _all_, Remeses! Then thou needest not fear. Moeris is
 not my son. He is nothing to me but my kinsman. Canst thou believe
 that that wicked prince is my offspring? I forgive thee, Remeses,
 because, perhaps, my words, and the necessity of guarding my secret,
 may have forced thee to this conclusion.' This she spoke with a mind
 evidently greatly relieved.
 
-"'Then, dear mother, I _am_ thy son in spite of Prince Mœris?'
+"'Then, dear mother, I _am_ thy son in spite of Prince Moeris?'
 
-"'In spite of Mœris,' she answered. 'Hast thou ever known any other
-mother? Remeses, let thy heart be at peace! Mœris is not my son! On
+"'In spite of Moeris,' she answered. 'Hast thou ever known any other
+mother? Remeses, let thy heart be at peace! Moeris is not my son! On
 that he does not found his hopes to grasp the reins of Egypt. Now hear
 me, my son,' she said, solemnly. 'That prince once sought my life.
 When I was taken ill on the day that he dined with me, he had bribed
@@ -10256,13 +10288,13 @@ significantly, that I looked in his eyes, and saw them full of
 warning. I did not drink, but pleaded illness, and left the
 banquet-room. I sent for the cup-bearer, and he confessed what he had
 done. When I heard his confession, and was thereby acquainted with the
-purpose of Prince Mœris against my life, I was overwhelmed with
+purpose of Prince Moeris against my life, I was overwhelmed with
 despair. My future safety lay in sending for him the next day. He
 came. It was a brief but dreadful interview. He acknowledged that he
 sought my life, because I had the day before refused him the crown of
 Upper Egypt, declining to give him the half of my empire. He
 threatened to betray my secret, and I pleaded for silence. He demanded
-the white crown of the Thebaïd as his reward, but I put him off with
+the white crown of the Theba�d as his reward, but I put him off with
 evasions. He had command of the fleet, and I dared not anger him. I
 shrunk from making known to you his demand, and the terror with which
 he inspired me. I promised that if he entered the Ethiopian capital
@@ -10275,7 +10307,7 @@ marshalling his forces!'
 thrones of Egypt,' she answered.
 
 "'And are you bound by this promise to him?' I demanded, overwhelmed
-with amazement, both at the audacity of Mœris, and the power he
+with amazement, both at the audacity of Moeris, and the power he
 held over my mother by means of this secret.
 
 "'By all the vows that a mortal can make to the gods! Here, in this
@@ -10290,10 +10322,10 @@ with a dark countenance, the foregoing conversation, "I heard this, I
 was for some time confounded, and could not speak. At length I cried
 out--
 
-"'That mystery--that secret, known only to you and Mœris, and for
+"'That mystery--that secret, known only to you and Moeris, and for
 the safe-keeping of which you part with one of your crowns, _what_ is
 it! divulge it! Am I not worthy, O my mother, of the confidence which
-Prince Mœris, by foul means, shares with you? Will you not intrust
+Prince Moeris, by foul means, shares with you? Will you not intrust
 me with the secret which he can extort by bribery?'
 
 "The queen looked deadly pale, and her whole frame trembled. She
@@ -10305,22 +10337,22 @@ evil. Do not doubt me, or you will kill me! Kiss me, Remeses! Kiss me,
 my son! Are you not my son? I love you, and know you love me. Let all
 else pass by. You shall be king! You shall wear the double tiara! You
 shall grasp both sceptres! Therefore is it, I would now make you king.
-Dost thou understand me? Mœris must not march into Ethiopia. That
+Dost thou understand me? Moeris must not march into Ethiopia. That
 evil man must have a master. My power is failing! I would surrender it
 to thee. The only safety of Egypt, the only security for thy crown and
 dominion, is in taking the throne, and ruling all Egypt in thine own
 right.'
 
-"'Is this so, my mother?' I demanded. 'Does Prince Mœris not only
+"'Is this so, my mother?' I demanded. 'Does Prince Moeris not only
 torture thy soul with a secret, which, as a just prince, he ought
 forever to forget, if thou desirest it, but does he also aspire to
-sever Egypt, and rule in the Thebaïd, on the ancient throne of my
+sever Egypt, and rule in the Theba�d, on the ancient throne of my
 ancestors, as the price of a secret held over thee with an unmanly
 advantage?'
 
 "'He does, my son,' she answered. 'The only safety of the empire
 depends on my resignation of the crowns into your hands. Once Pharaoh,
-you have Mœris at your feet, and if he prate his secret, you will
+you have Moeris at your feet, and if he prate his secret, you will
 then be able to despise it, and put to silence his tongue.'
 
 "'Mother, my dear mother,' I answered, after long reflection, 'what
@@ -10328,11 +10360,11 @@ you have told me has brought me to a decision. I shall act
 blindly--not knowing the nature of the power of the prince over you;
 but I shall act from affection and sympathy for you, in obedience to
 your wishes, and for the preservation of the integrity of the united
-kingdom. I am ready to obey you. In order to defeat Prince Mœris,
+kingdom. I am ready to obey you. In order to defeat Prince Moeris,
 and relieve your mind, I will accept the sceptre which you are
 desirous of placing in my feeble and inexperienced hand. I am ready to
 enter upon the sacred rites of initiation, and in all things will be
-your dutiful and obedient son. The wickedness and ambition of Mœris
+your dutiful and obedient son. The wickedness and ambition of Moeris
 must be crushed.'
 
 "When I had thus said, my mother, with a cry of joy cast herself into
@@ -10350,7 +10382,7 @@ importance to this dynasty. Who can divine the secret?
 But I must here close my letter, with assurances of my fondest
 attachment to you, my dear mother, whom the gods guard from all
 mysteries and secrets, and from ambitious princes like the lord
-Mœris.
+Moeris.
 
  Your ever faithful
  SESOSTRIS.
@@ -10540,7 +10572,7 @@ Remeses, by the consent of her council, many years ago. The sceptre of
 Egypt is hereditary; but in the event of there being no lineal heir,
 the monarch can adopt one, if taken from the priestly or military
 class; as the army or the priesthood are the two professions followed
-by all men of rank, the navy not having been, until Prince Mœris,
+by all men of rank, the navy not having been, until Prince Moeris,
 its admiral, demanded it, an exclusive service. Most of the Pharaohs
 have been from the military class, and younger princes, from the days
 of Osirtasen to Prince Remeses, have adopted the warlike profession;
@@ -10660,7 +10692,7 @@ other vessels swiftly moving from its course and giving it the way.
 Shooting out into the swift Nile, between two colossal sea-dragons of
 red stone, which guarded the entrance to the canal, we crossed to the
 palace-covered Rhoda. As I was about to land at the stately quay, I
-saw, to my surprise, the war-galley of Prince Mœris riding near,
+saw, to my surprise, the war-galley of Prince Moeris riding near,
 her rowers still seated at their banks, as if ready to move at a
 moment's warning. I met Acherres, who has wholly recovered from his
 long illness, of which I wrote his father, at the gateway of the
@@ -10669,7 +10701,7 @@ palace.
 "My prince," he said, looking anxious, "I am glad you have come. Her
 majesty is in some great distress."
 
-"Is Prince Mœris here?" I quickly asked.
+"Is Prince Moeris here?" I quickly asked.
 
 "No, my prince; but his galley has brought hither a courier with
 letters."
@@ -10700,18 +10732,18 @@ in trouble."
 "In trouble, Sesostris! It is more than trouble; it is a weight
 greater than I can bear!"
 
-"Has Mœris been defeated?" I asked, with earnest sympathy.
+"Has Moeris been defeated?" I asked, with earnest sympathy.
 
-"Mœris defeated! No, oh no; but rather conqueror. But I speak an
+"Moeris defeated! No, oh no; but rather conqueror. But I speak an
 enigma!"
 
 "Has aught happened to Remeses in his sacred duties?"
 
-"No, oh no! It is Mœris! He will break my heart!"
+"No, oh no! It is Moeris! He will break my heart!"
 
 "What has he done? What can I do?" I asked, perplexed.
 
-"Nothing--that is, _you_ can do nothing! As for Mœris, he has done
+"Nothing--that is, _you_ can do nothing! As for Moeris, he has done
 every thing! But why do I talk to you? You understand me not! There is
 a fearful secret, O Sesostris! I did not send for you to reveal it to
 you--but--but for sympathy;--for your company! I know you love me, for
@@ -10730,7 +10762,7 @@ I answered.
 
 "Did he speak of a secret I held locked in my heart even from him?"
 
-"He did. He said it was known, however, to Prince Mœris, who held
+"He did. He said it was known, however, to Prince Moeris, who held
 it over you as a power of evil."
 
 "Did Remeses suspect its nature?" she demanded.
@@ -10739,7 +10771,7 @@ it over you as a power of evil."
 removed."
 
 "Yes," she said, with a strange, cold smile, "he fancied that
-Mœris's secret was, that he was the true heir of the throne--my
+Moeris's secret was, that he was the true heir of the throne--my
 son; and that Remeses was the nephew of Pharaoh, not himself! Was it
 not an extraordinary idea, prince?" she asked me with the same icy
 irony that was unaccountable to me. "Who could ever doubt that Remeses
@@ -10767,7 +10799,7 @@ my son! Oh no, never! never! Could they, think you, my lord prince?"
 surprising me, and leading me to fear that she was not at all well;
 that her nerves had been too severely tried by the intelligence,
 whatsoever its nature was, which she had received from Prince
-Mœris. "Your majesty, I hope, has had no evil tidings," I added,
+Moeris. "Your majesty, I hope, has had no evil tidings," I added,
 glancing at the letter she still grasped.
 
 "Oh, evil! All evil, all!" she cried, with anguish in her looks.
@@ -10818,7 +10850,7 @@ majesty is engaged. Await her leisure."
 
 The Theban courier bit his lip, and scowled impatiently. I perceived
 that the man had caught the spirit of the master; and could judge how
-defiant and haughty Mœris must be when his courier could play the
+defiant and haughty Moeris must be when his courier could play the
 impatient follower so well. Rejoining her majesty, I said, in answer
 to her inquiring look, "The courier from the viceroy."
 
@@ -10868,7 +10900,7 @@ them down in the shape of an epistle to my dear mother, so that
 hereafter, if it be necessary to refer to it for facts, there may be
 written evidence of them.
 
-The letter of Prince Mœris, which the queen placed in my hands, was
+The letter of Prince Moeris, which the queen placed in my hands, was
 dated some years back, and, no doubt, on noticing this, my countenance
 betrayed surprise; for she said quickly--
 
@@ -10926,7 +10958,7 @@ two that follow. It was dated--
  base Hebrews, or of an Egyptian swine-herd; and, by the gods, judging
  from his features, he might be a Ben Israel!
 
- "I demand, therefore, that you make me viceroy of the Thebaïd. Unless
+ "I demand, therefore, that you make me viceroy of the Theba�d. Unless
  you do so, I swear to your majesty, that I will agitate this
  suspicion, and fill all Egypt with the idea that your favorite
  Remeses is not your son. Whether I believe this or not, matters not.
@@ -10934,7 +10966,7 @@ two that follow. It was dated--
  doubt, act accordingly.
 
   "Your faithful nephew,
-  "MŒRIS, Prince."
+  "MOERIS, Prince."
 
 When I had finished reading this extraordinary letter, I raised my
 eyes to the queen. She was intently observing its effect upon my
@@ -10950,7 +10982,7 @@ and dangerous man?" I said.
 
 She bit her lip, and said, in a hollow tone--
 
-"Prince of Tyre, is he not this day viceroy of the Thebaïd?"
+"Prince of Tyre, is he not this day viceroy of the Theba�d?"
 
 "Does your majesty mean that you yielded to his demand?"
 
@@ -10963,7 +10995,7 @@ he had said had been true--"
 mischief. The rumor of such a thing, false or true, would have shaken
 my throne, and destroyed the confidence of the mass of the people in
 Remeses when he came to the sceptre. I resolved to stifle it by giving
-Mœris what he asked."
+Moeris what he asked."
 
 I regarded the queen with sentiments of pity and sorrow. She said
 quickly--
@@ -10982,7 +11014,7 @@ and give me your sympathy."
 
 It bore date--
 
- "CAMP, OPPOSITE THE PALACES OF THE MEMNONIA, THEBAÏD.
+ "CAMP, OPPOSITE THE PALACES OF THE MEMNONIA, THEBA�D.
 
  "TO THE QUEEN AMENSE:
 
@@ -11114,7 +11146,7 @@ It bore date--
  conviction.
 
  "Now, O queen, who intendeth to place a degraded Hebrew upon the
- throne of Egypt, I, Mœris, write this epistle warning you, that
+ throne of Egypt, I, Moeris, write this epistle warning you, that
  unless you revoke your purpose, and publicly adopt me as your son,
  and convey to me the two crowns, I will proclaim through all Egypt
  your shame, and the true history of this Remeses! I could have
@@ -11139,7 +11171,7 @@ It bore date--
  you shall hear me knocking at the gates of Rhoda with the head of my
  spear!
 
-  MŒRIS,
+  MOERIS,
   "NEPHEW AND HEIR OF AMENSE, QUEEN OF EGYPT."
 
 When, my dear mother, I had finished reading this extraordinary
@@ -11167,7 +11199,7 @@ Remeses in power?"
 "Is it not enough?"
 
 "No, O wise and virtuous lady!" I answered, with indignant feelings
-against Mœris, and sympathy for her womanly fears; "my advice to
+against Moeris, and sympathy for her womanly fears; "my advice to
 you is, to defy the malice and wickedness of the viceroy, inform
 Remeses of these letters--nay, let him read them--assemble your army,
 and meet him with open war. A row of galleys sunk across the Rile will
@@ -11183,7 +11215,7 @@ she almost shrieked.
 
 "No. He knows no other mother. If he hears this story, he will
 investigate it to the last, to show me that he would prove it false in
-the mouth of Mœris."
+the mouth of Moeris."
 
 "And this he ought to do, your majesty," I said, firmly.
 
@@ -11225,7 +11257,7 @@ her tottering form.
 
 "Yes."
 
-"Then this letter of Mœris is all true?"
+"Then this letter of Moeris is all true?"
 
 "All, as to the fact that Remeses is a Hebrew!"
 
@@ -11240,7 +11272,7 @@ engaged, even then, in the vigils and rites which were to prepare him
 to ascend the throne! I could now understand all that had been
 inexplicable in the queen's conduct, unravel her mysterious language,
 see the motive of all her acts. I no longer marvelled that she, loving
-Remeses with all a mother's love, trembled before Mœris and his
+Remeses with all a mother's love, trembled before Moeris and his
 secret, and gave him all he demanded as the price of silence. But when
 he asked for her throne as the bribe for secrecy, it was more than her
 spirit could bear; and unable alone, unaided, to meet him in his
@@ -11254,14 +11286,14 @@ forever from Remeses.
 "He must _never_ know it!" she cried, passionately.
 
 "It will be known to him," I answered, sorrowfully "If you refuse
-Prince Mœris's demand, he will write another such missive as this,
+Prince Moeris's demand, he will write another such missive as this,
 and dispatch it to Remeses. The prince, if I may, from love, still
-call him so, will, as you have said, examine the matter. Mœris will
+call him so, will, as you have said, examine the matter. Moeris will
 refer him to the ladies Nilia and Thebia. He will then come to you--"
 
 "To me?" she cried, with a shudder.
 
-"To you, O queen, and ask of you if Prince Mœris and these women
+"To you, O queen, and ask of you if Prince Moeris and these women
 relate the truth."
 
 "He would not believe--he would not believe it--so far as to come to
@@ -11311,7 +11343,7 @@ take the child home, for she lived in a garden, not far above the
 palace, upon the island, her father being a cultivator of flowers for
 the priests. The tenderness of this Hebrew woman towards the beautiful
 babe pleased me, and, after I had, in a public manner, acknowledged
-the child, even as Mœris's letter states, I let it remain with her
+the child, even as Moeris's letter states, I let it remain with her
 until it grew to be three years old, when I commanded her to bring it
 to the palace to remain; for although I had seen it almost daily, I
 now desired to have it wholly in my possession. From that time he has
@@ -11334,7 +11366,7 @@ have loved him!"
 
 "I pity you, O queen, with all my heart," said I, warmly.
 
-"Oh, what shall I do? What shall I reply to Mœris?"
+"Oh, what shall I do? What shall I reply to Moeris?"
 
 "I know not how to counsel you!" I said, embarrassed by this appeal.
 
@@ -11357,13 +11389,13 @@ No sooner had the valves of the door closed upon him, than she said--
 
 "It is done! The arrow is drawn from the quiver, and set to the
 bowstring. There is nothing left but to defy him, and trust the gods
-to aid the just cause. Remeses will be crowned king, ere Mœris can
+to aid the just cause. Remeses will be crowned king, ere Moeris can
 get my message and return a letter to him. There are but five days
 more to the end of the forty. Three days afterwards is the coronation.
 That is nine from to-day. It will take twelve or more days for a
-message to go and come from the camp of Mœris. Three days! Time
+message to go and come from the camp of Moeris. Three days! Time
 enough to make or mar an empire. Sesostris, this prince of Typhon,
-this haughty Mœris, shall yet be confounded!"
+this haughty Moeris, shall yet be confounded!"
 
 Thus speaking, the queen, whose whole powers were aroused by despair
 linked with affection, laid her hand in mine, bade me good-night--for
@@ -11378,11 +11410,11 @@ of secrecy is removed.
 What can I say? How can I realize that Remeses is a Hebrew? How little
 he suspects the truth! Will he hear it? If he does; but it is useless
 to speculate upon the consequences. I pray that he may be well crowned
-before Mœris can do him any mischief; for, son of Misr, or son of
+before Moeris can do him any mischief; for, son of Misr, or son of
 Abram, he is worthy of the throne of Egypt, and will wield its sceptre
 with wisdom and justice, beyond that of any of the proud Pharaohs. The
 attachment of the queen is natural. I deeply feel for her. The conduct
-of Mœris is also natural. What will be his course? Farewell, dear
+of Moeris is also natural. What will be his course? Farewell, dear
 mother.
 
  Your affectionate son,
@@ -11766,7 +11798,7 @@ out together, and to my surprise I saw, by the setting moon, that it
 was near dawn. They bent their steps, swiftly and silently, towards
 the ancient temple of Isis, which was then, as now, in ruins, and
 deserted by every Egyptian, for the sacrilege done therein under the
-reign of Bnon, the Phœnician Pharaoh. I could see them steal along
+reign of Bnon, the Phoenician Pharaoh. I could see them steal along
 the tangled avenue beneath the palm-trees, and through that of the
 broken sphinxes, until they came to the pyramidion of the obelisk of
 Sesostris I. Here a deep, ancient excavation, covered with vines and
@@ -11886,7 +11918,7 @@ Your courier reached me yesterday with your important letter, advising
 me of the refusal of the King of Cyprus to receive your ambassador, or
 release your subjects; and that you only await my return to declare
 war. I shall not fail to respond to your call, and will next week
-leave Egypt for Syria. I have not yet visited the Thebaïd, and the
+leave Egypt for Syria. I have not yet visited the Theba�d, and the
 superb temples of Upper Egypt, nor seen the wonderful Labyrinth, nor
 the Cataracts; but I hope at some future day to revisit this
 interesting land. I feel, indeed, rejoiced to go away now, as the
@@ -12023,7 +12055,7 @@ magi know how to produce.'
 
 "'Dost thou believe it?' she cried.
 
-"'Is it not thy _secret_, O my mother, which Prince Mœris shares
+"'Is it not thy _secret_, O my mother, which Prince Moeris shares
 with thee? Am I not right? Does not that Hebrew child,' I cried,
 rising, 'now stand before thee?'
 
@@ -12035,18 +12067,18 @@ then, in a scene such as I hope never to pass through again, assured
 her I should refuse the throne and exile myself from Egypt. She
 implored me with strong appeals to keep the secret, and mount the
 throne. I firmly refused to do so, inasmuch as it would be an act of
-injustice, not only to Mœris, but to the Egyptians, to deceive them
+injustice, not only to Moeris, but to the Egyptians, to deceive them
 with a Hebrew ruler. She reminded me how, for sixty-one years, Prince
 Joseph had governed Egypt. 'Yes,' I said, 'but it was openly and
 without deceit; while my reign, would be a gross deception and
 usurpation.' But, O Sesostris, I cannot revive the scene. It has
-passed!--I have yielded! She showed me the letters of Prince Mœris.
+passed!--I have yielded! She showed me the letters of Prince Moeris.
 She implored me for her sake to keep the secret, and aid her in
 resisting the conspiracy of the viceroy. When I reflected that he had
 made my mother so long miserable, and now menaced her throne, I
 yielded to her entreaties to remain a few days at the head of the
 affairs that have been intrusted to my control, and to lead the army
-against Mœris, should he fulfil his menace to invade Lower Egypt.
+against Moeris, should he fulfil his menace to invade Lower Egypt.
 After that, I said, I shall refuse to be called the son of Pharaoh's
 daughter, and will retire from the Court."
 
@@ -12112,7 +12144,7 @@ is the greatest consolation, in this my sorrow and humiliation, to
 know that you do not withdraw from me your friendship; that you can
 still esteem me as a man! Sesostris, I thank you. I will accept your
 offer, if my--that is, the queen, will change her mind, and permit me
-to address a letter, by a swift courier, to Prince Mœris. In it I
+to address a letter, by a swift courier, to Prince Moeris. In it I
 will briefly say that I am informed of my true lineage, and that if he
 will quietly wait the succession, and be submissive to the queen, and
 withhold his army from Memphis, I will, within three days after
@@ -12131,7 +12163,7 @@ Indeed, she seems heart-broken, spirit-crushed! This discovery,
 against which her soul has so long battled, has left her prostrate,
 almost wrecked! For her sake I bore up and hid my own unfathomable
 sorrow. She has, at my solicitation, consented that I shall not only
-write to Prince Mœris, inserting a clause enjoining silence as to
+write to Prince Moeris, inserting a clause enjoining silence as to
 my birth, but her own courier shall be its bearer, signifying her wish
 for conciliation. The letter was written in her presence, the clause
 for silence introduced, and the courier is already gone with it."
@@ -12144,19 +12176,19 @@ called him to her, and said--
 shall never recover! It was my wish to leave you firmly seated upon my
 throne; but the gods have decreed otherwise. Call a council of the
 hierarchy. I must not be faithless to my ancestors, and leave a vacant
-throne. You have advised me to adopt Prince Mœris. I can do no
+throne. You have advised me to adopt Prince Moeris. I can do no
 otherwise. For this act, assemble my councils, both of state and of
 the priesthood."
 
 "I obeyed," said Remeses, when he subsequently related what passed.
 "The next day the councils met in one session, and the queen,
 supported upon her couch, presided. Briefly she announced her
-intention of adopting Mœris-Mento,--giving his full name,--as her
+intention of adopting Moeris-Mento,--giving his full name,--as her
 son, and the next in succession to the throne, their consent being
 obtained. Then came up the question, 'why Prince Remeses declined?'
 Being present, I answered that it was my intention to retire from the
 court, visit foreign lands, and leave the government of Egypt in the
-hands of Mœris. At the earnest request of the queen I made no
+hands of Moeris. At the earnest request of the queen I made no
 allusion to the secret. The united councils yielded their assent, and
 the royal secretary drew up the papers in due form, which the queen,
 supported by me, signed. A courier was then dispatched with a copy of
@@ -12277,7 +12309,7 @@ ready your war-fleet against Cyprus, and the desire of Remeses that I
 delay until the eighty days' mourning for the queen were over, induced
 me to remain. It is now four days since her burial in the centre of
 her stately pyramid, with the most imposing and gorgeous rites ever
-known at the entombment of a monarch. Prince Mœris was chief
+known at the entombment of a monarch. Prince Moeris was chief
 mourner! I have omitted to state that he readily acceded to the
 conditions proposed in the letter of Remeses, and when the courier
 followed, conveying to him the fact that he had been adopted and
@@ -12301,7 +12333,7 @@ Remeses or myself longer in Egypt. By her bounty he is rich, and has
 given to his parents a large treasure, which will enable them to be at
 ease; and besides, the queen gave to them and to Aaron (this is the
 name of the elder brother of Remeses), and his sister, the right of
-citizenship. Mœris, the day of the queen's burial, virtually
+citizenship. Moeris, the day of the queen's burial, virtually
 ascended the throne. His coronation, however, will not take place
 until after he has passed through the forty days' novitiate.
 
@@ -12309,7 +12341,7 @@ And now, my dear mother, you will be surprised to learn that, the
 information of the Hebrew birth of Remeses (who has modestly dropped
 his first Egyptian name and adheres only to the second, which is
 Mosis, or Moses, as the Hebrews pronounce it), was wickedly conveyed,
-with large bribes, to the magicians by Prince Mœris himself; and
+with large bribes, to the magicians by Prince Moeris himself; and
 that, upon this information and influence, they recalled from the
 past, which, like the future, is open to their magical art, the scenes
 of his life, and presented them before his vision.
@@ -12348,15 +12380,15 @@ agency of the spirit of evil.
 This, dear mother, will be the last letter I shall write you from
 Egypt. Accompanied by Remeses, I shall to-morrow embark in my galley
 for Pelusium. My friend, the Admiral Pathromenes, will accompany us to
-the mouth of the Eastern Nile. I ought to say that King Mœris, now
+the mouth of the Eastern Nile. I ought to say that King Moeris, now
 Pharaoh-elect, has extended towards me marked civilities, and seeks
 for a continuance of friendly intercourse. I shall bear a royal letter
 from him to your majesty, expressive of his respect for you, and his
 desire to perpetuate the alliance. But I have no love for the man! If
-I can, I will raise an army in Phœnicia, after I see the King of
+I can, I will raise an army in Phoenicia, after I see the King of
 Cyprus chained to the poop of my galley, and, placing Remeses at the
 head, invade Egypt, call the Hebrews to arms, and, overturning the
-throne of Mœris, place my friend in his seat. Did not the dying
+throne of Moeris, place my friend in his seat. Did not the dying
 queen prophesy that he was born to rule? It is over Egypt he will yet
 wield the sceptre! I will do my part, dear mother, to fulfil the
 prophecy.
@@ -12444,7 +12476,7 @@ earliest worship of men rose to the gods, deeply impressed me. The
 fleet will sail in about one month.
 
 
-DAMASCUS, SYRO-PHŒNICIA.
+DAMASCUS, SYRO-PHOENICIA.
 
 Since writing the above I have come to this beautiful city, which lies
 in a lovely vale watered by two rivers, the Abana and Pharphar, that
@@ -12460,7 +12492,7 @@ happiness in his alliance.
 
 I met here the venerable Prince of Uz. He had travelled thus far on
 his return to his own land, which lies on the borders of Chaldea and
-Sabæa, and when informed of my present position was deeply moved. We
+Sab�a, and when informed of my present position was deeply moved. We
 have had long and interesting conversations together, upon the unity
 of God! which have so deeply absorbed my reflections, that I have
 accepted an invitation to visit him, after I return from Cyprus,
@@ -12500,7 +12532,7 @@ LETTER II.
 REMESES TO HIS BROTHER.
 
 
-PHŒNICIA.
+PHOENICIA.
 
 A year has passed, my brother, since I last wrote to you. In the mean
 while I have received your very kind epistle. It reached me at Tyre,
@@ -12511,7 +12543,7 @@ pitched battle, taking his battalion of chariots, which were armed
 with scythes, and destroying his cavalry. The king implored peace, and
 surrendered his capital. Sesostris, after levying a tribute of two
 thousand talents of silver upon it for ten years, and demanding a
-portion of the island, on the north, for a Phœnician colony,
+portion of the island, on the north, for a Phoenician colony,
 returned triumphant to his country.
 
 I am now travelling through the whole of Syria. From this point I
@@ -12667,12 +12699,12 @@ LETTER IV.
 REMESES TO MIRIAM.
 
 
-TYRE, PHŒNICIA.
+TYRE, PHOENICIA.
 
 MY DEAR SISTER:
 
 I received your letter, written to me from Bubastis. I grieve to hear
-that King Mœris is increasing so heavily the burdens of our people,
+that King Moeris is increasing so heavily the burdens of our people,
 as to drive to the fields, and to the new lake to which he has given
 his name, all who were servants in houses. Unused to toil under the
 sun, they will suffer more than others. I read the copy of the edict
@@ -12680,7 +12712,7 @@ you inclosed, forbidding the Egyptians to receive, as domestics, any
 of the Hebrew people, that so all might be driven to become toilers in
 the field. His motive is evident. He is alarmed at the increase of the
 Hebrews, and would oppress them, to death by thousands. My heart
-bleeds for those he has sent to the mines in the Thebaïd. This is a
+bleeds for those he has sent to the mines in the Theba�d. This is a
 new feature in the Hebrew bondage. But there is a just God on high, O
 my sister Miriam, the Holy One, whom our fathers worshipped. He will
 not forget his people forever, but in due time will bring them out of
@@ -12725,7 +12757,7 @@ among them to know them, and be one of them. All my Egyptian pride,
 dear sister, is long since gone, and I seek daily to cultivate that
 spirit of meekness, which better becomes one, who is of a race of
 bondmen. But, my sister, rather would I be a slave, chained at the
-chariot-wheel of Pharaoh-Mœris, with my present knowledge of the
+chariot-wheel of Pharaoh-Moeris, with my present knowledge of the
 Holy and Almighty One,--compared with which all the wisdom of Egypt is
 foolishness,--than be that monarch himself with his ignorance of Him,
 and his worship of Osiris and Apis!
@@ -12753,14 +12785,14 @@ In a letter written a few days ago, and which went by a vessel that
 was to touch at Pelusium on its way to Carthage, I alluded to a
 feeling (which has been increasing in strength for many months) that
 prompted me to visit my brethren in bonds in Egypt. It is true, I have
-no power. I am but one, and Mœris would, no doubt, gladly seize
+no power. I am but one, and Moeris would, no doubt, gladly seize
 upon me if he knew I was in his kingdom. I have, however, determined
 to yield to the desire; and next month shall sail in a galley that
 goes to Egypt for ebony and ivory. Not long, therefore, after you
 receive this letter, which the scholarly Aaron will read to you, will
 you embrace your younger and long-absent son. It is expedient that I
 go unknown. I wish to observe the Hebrew people, without awakening
-suspicion, as to who I am. Should Mœris hear of me, he would
+suspicion, as to who I am. Should Moeris hear of me, he would
 quickly suspect me of planning evil against him. If I can do no more,
 I can carry to the elders the certainty of the truth, as they received
 it, by tradition, of One God, Lord of heaven and earth, Infinite in
@@ -12831,7 +12863,7 @@ Farewell, my dear mother. In a few days you will embrace me.
 
 LETTER VI.
 
-REMESES IN EGYPT TO SESOSTRIS IN PHŒNICIA.
+REMESES IN EGYPT TO SESOSTRIS IN PHOENICIA.
 
 
 TREASURE-CITY OF RAAMSES.
@@ -12864,7 +12896,7 @@ His creation? Who, with such a scene before him, as day with its
 splendor and vastness of space, and night with its stars presented
 above the sea, could give the glory of the Almighty to another, and
 put his trust in such myths as are the gods of Egypt and the deities
-of Phœnicia?" I rejoice, O king, that you have listened to the
+of Phoenicia?" I rejoice, O king, that you have listened to the
 truths it was my happiness to unfold to you, and that in your heart
 you acknowledge and secretly adore the Almighty. May the time soon
 come when you will have strength given you, from Himself, to establish
@@ -12895,7 +12927,7 @@ with sharp sand, blown from the Arabian desert.
 The passengers and crew were in despair, and believing that every
 succeeding billow would go over us and destroy us, they called
 frantically upon their gods! The Syrian cried to Hercules, and the
-Sabæan upon the sun and upon fire. The merchants of Tyre prayed to
+Sab�an upon the sun and upon fire. The merchants of Tyre prayed to
 Adonis and Io, the Arabians to Ammon, and the Egyptians vowed
 libations and offerings to Apis, Osiris, and Thoth. Our pilot, finding
 all hope desert him, burned a cake of incense to the deity of the sea,
@@ -12973,7 +13005,7 @@ I withdrew privately, and went to Bubastis. After visiting, unknown to
 them, the tens of thousands of my brethren, who are engaged in
 extending the walls of that place, and increasing the number of
 treasure-houses therein, I took boat and came hither secretly, for
-fear that Mœris, if he knew me to be in Egypt, might watch my
+fear that Moeris, if he knew me to be in Egypt, might watch my
 movements, if not banish or imprison me.
 
 I have now been several days in the bosom of my family. My mother and
@@ -12990,7 +13022,7 @@ Hebrew who sinks down under his toil, shall be suffered to remain upon
 the ground, but must be placed upon his feet again, and driven to his
 task, until he sinks to rise no more; and to such, neither bread nor
 water shall be offered, that they may die! Such, O king, is the heart
-of this Mœris!
+of this Moeris!
 
 Yet, with all these extraordinary measures, inspired by his fear, to
 lessen the number of the Hebrews, they increase in the most
@@ -13128,7 +13160,7 @@ everywhere try to lift up their feeble hearts, and to encourage them
 with the bright future. But one of the old men answered--
 
 "Thou sayest that it is a land filled with a warlike people; that they
-are the descendants of the old Phœnician shepherd-kings, who once
+are the descendants of the old Phoenician shepherd-kings, who once
 conquered Egypt. How, O son of Pharaoh's daughter," he added, giving
 me this appellation in his anger, "how can we Hebrews, who know not an
 arrow from a lance, or a spear from a bow, who are crushed in spirit
@@ -13204,7 +13236,7 @@ which led to this result.
 
 The morning after he had completed his letter to thee, O king, he said
 to me, "I will go forth and see my brethren who are at work on Lake
-Mœris, that I may talk also with the old and young men, and inspire
+Moeris, that I may talk also with the old and young men, and inspire
 their heavy hearts with hope." So he departed, and, crossing the
 river, disguised as an Egyptian,--for no Hebrew dare now be seen
 walking alone for fear of being challenged by the soldiers, who
@@ -13212,7 +13244,7 @@ garrison all the country, and stand guard at every corner, and at
 every gate,--he came to the shores of Lake Amense, the beauty of
 which, with its garden and palace-lined shores, so much pleased thee,
 O king, when, five years ago, thou wast in Egypt. There he saw King
-Mœris clothed in scarlet, a chain of gold across his breast,
+Moeris clothed in scarlet, a chain of gold across his breast,
 standing in his chariot, as he slowly drove around the lake, giving
 directions to the chief captains over the works. My brother was not
 recognized by him, however, and went on his way, observing the severe
@@ -13273,7 +13305,7 @@ Whereupon the man who did the injury to his fellow, said fiercely,
 looking narrowly upon my brother--
 
 "Thou art Remeses, the Hebrew 'son of Pharaoh's daughter!' I remember
-thee. Dost thou think that thou art still a Prince of Egypt? Mœris
+thee. Dost thou think that thou art still a Prince of Egypt? Moeris
 is now our king. Who hath made _thee_ prince and judge over us? Thou
 forgettest that thou art now a slave, like the rest of us. Intendest
 thou to kill me as thou killedst the Egyptian yesterday?"
@@ -13283,14 +13315,15 @@ the thing was known, and beholding the eyes of the Egyptian officers,
 and many of the Hebrews fastened upon him, he hastened to escape, for
 he beheld several men run to a high officer of the king, as if with
 the news, who at once drove rapidly away in his chariot, probably
-seeking Mœris, whom my brother knew to be not far off, superintending
-the placing of a statue of Horus upon a new terrace. Several Hebrews
-would have interposed to arrest Moses, when they heard who he was, for
-they look upon him more as an Egyptian than as one of their brethren.
-But he succeeded in retiring unharmed, and at once hastened to recross
-the Nile. When he had told us that what he had done to the Egyptian
-was known, and that he was recognized, and that Mœris would surely
-hear of it, his mother and I advised his immediate flight.
+seeking Moeris, whom my brother knew to be not far off,
+superintending the placing of a statue of Horus upon a new terrace.
+Several Hebrews would have interposed to arrest Moses, when they heard
+who he was, for they look upon him more as an Egyptian than as one of
+their brethren. But he succeeded in retiring unharmed, and at once
+hastened to recross the Nile. When he had told us that what he had
+done to the Egyptian was known, and that he was recognized, and that
+Moeris would surely hear of it, his mother and I advised his
+immediate flight.
 
 He said that he had no doubt the king would seek his destruction, and
 that he ought to be cautious and consult his own preservation. "But,"
@@ -13311,7 +13344,7 @@ be dear to our people!"
 "My father," said Moses sorrowfully, "I believed that my brethren
 would understand that God was with me, and would acknowledge me as
 sent to be their friend, instead of joining the Egyptians against me!
-I will fly! Mœris would rejoice to hold me in his power! But with
+I will fly! Moeris would rejoice to hold me in his power! But with
 the hope, that even in a foreign land I may serve my people, at least
 by prayer and supplication to God for them, I will keep my life out of
 Pharaoh's hand."
@@ -13340,7 +13373,7 @@ thou mayst remember, he invited my brother to visit his kingdom in
 Arabia.
 
 It was well for Moses that he so thoroughly knew the character of King
-Mœris; for when I returned, I learned from my mother, that a party
+Moeris; for when I returned, I learned from my mother, that a party
 of soldiers had been sent by Pharaoh to seize him. Another hour, and
 he would have fallen into his hand.
 
@@ -13371,7 +13404,7 @@ May God long preserve thy life, O king.
 LETTER I.
 
 
-PALACE OF PHARAOH, LAKE MŒRIS
+PALACE OF PHARAOH, LAKE MOERIS
 
 MY DEAR FATHER AND KING:
 
@@ -13387,11 +13420,11 @@ Queen Amense, addressed to my royal grandmother, and which are now in
 my possession, early familiarized my mind with this wonderful land;
 and I recognize every place of interest, from your descriptions.
 
-There are, however, some changes. Pharaoh-Mœris, who has been long
+There are, however, some changes. Pharaoh-Moeris, who has been long
 dead, and his son Meiphra-Thothmes, Thothmeses his grandson, and
 Thothmeses IV., the present king, all inaugurated their reigns by
 laying the foundations of temples, palaces, and pyramids; while the
-ruins of others have been repaired. Mœris restored the ancient
+ruins of others have been repaired. Moeris restored the ancient
 temple of Thoth, in the Island of Rhoda, where Prince Remeses was
 hidden three months, and also all other temples in Egypt. His reign,
 though tyrannical, was distinguished by improvement in arts, in
@@ -13404,7 +13437,7 @@ This lake was begun by former princes, and enlarged by Queen Amense,
 in order to receive the surplus waters of the Nile, when the
 inundations, as sometimes happen, arise and overflow the fields after
 the corn is up. The lake, however, was not large enough wholly to
-correct this evil, and King Mœris still further enlarged it, by
+correct this evil, and King Moeris still further enlarged it, by
 means of the services of the Hebrews, three hundred thousand of whom,
 it is said, perished in the work, before it was completed. It is ample
 enough in breadth and depth to contain the excess of the Nile. One of
@@ -13412,7 +13445,7 @@ the wonders of the world, it is only paralleled in grandeur by the
 pyramids. In the midst of this magnificent inland sea--for such it
 seems--arise two pyramids, upon the summit of each of which, three
 hundred and eight feet in the air, stands upon a throne, shaped like a
-chariot, a statue, one being that of Thoth, the other of Mœris.
+chariot, a statue, one being that of Thoth, the other of Moeris.
 Upon the former is inscribed--
 
 "The god prospered;" on the other, "Pharaoh builded." Beneath this
@@ -13430,7 +13463,7 @@ palaces, villas, temples, gardens, and squares. At the Nile
 termination stands a single colossus, representing the god Nilus. He
 is astride the canal, his feet upon the bases of pyramids, and beneath
 him are great floodgates, that let in or exclude the waters of the
-river. On the south of the lake, upon a plain of sand, Mœris
+river. On the south of the lake, upon a plain of sand, Moeris
 erected a vast temple to Serapis, dedicated it with great pomp, and
 inclosed it by gardens a mile square, the earth of which was carried
 by Hebrews in baskets, from the excavations of the lake. He commenced
@@ -13476,7 +13509,7 @@ into the intricacies of its mazes--the chief pyramids, and that also
 of Queen Amense, at the entrance of which I placed fresh flowers for
 your sake.
 
-Pharaoh-Mœris greatly extended the bounds of Memphis. It is not
+Pharaoh-Moeris greatly extended the bounds of Memphis. It is not
 less than twelve miles in circuit. He covered with it a large portion
 of the plain westward of the pyramids; and where once was a barren
 waste, are now streets, avenues, colonnades, temples, public edifices,
@@ -13504,7 +13537,7 @@ more defaced. Indeed, the reigning Pharaoh has expressed his intention
 of removing it altogether, so that the pyramids may stand forth in
 solitary majesty.
 
-Among other events of the reign of Mœris, was the discovery, by
+Among other events of the reign of Moeris, was the discovery, by
 him, that the tradition which represented the great sphinx as being
 hollowed into chambers was a true one. He found the entrance, which
 was beneath the small temple, between the fore-paws of the statue.
@@ -13537,7 +13570,7 @@ so aged, unless it was Jethro, king of Midian. He inquired why I had
 delayed coming to Egypt until I was forty-two (for I told him my age,
 which exactly corresponds with his own); and when I informed him that
 I had been engaged in improving and restoring my kingdom of Damascus,
-which I inherited from my mother, and which the Sabæans had thrice
+which I inherited from my mother, and which the Sab�ans had thrice
 invaded and devastated before I came of age, he expressed his pleasure
 that peace was restored, and that I had come into Egypt, at last. He
 seems naturally superstitious, credulous, and irresolute. I think he
@@ -13616,7 +13649,7 @@ only to take this letter, the wind being now favorable.
 
 LETTER II.
 
-REMESES OF DAMASCUS, TO HIS FATHER, KING SESOSTRIS OF PHŒNICIA.
+REMESES OF DAMASCUS, TO HIS FATHER, KING SESOSTRIS OF PHOENICIA.
 
 
 CITY OF ON, EGYPT.
@@ -13624,7 +13657,7 @@ CITY OF ON, EGYPT.
 Having an opportunity, my dearest father, to send this letter the day
 after to-morrow, I will herewith make known to you, how I obtained the
 intelligence, that your ancient friend Remeses is still in the kingdom
-of Midian, whither he fled from King Mœris.
+of Midian, whither he fled from King Moeris.
 
 In obedience to your last instructions, I have diligently made all
 inquiries that were likely to obtain the information which your lively
@@ -14378,7 +14411,7 @@ opened a new vein of silver, in the southern mountains near Ethiopia.
 prince," he said. "I will, to-morrow, give orders to all the
 governors, and chief captains, and officers over them, to choose me
 the strongest and most dangerous, and assemble them in companies of
-thousands, and, under strong guard, march them to the Thebaïd. By the
+thousands, and, under strong guard, march them to the Theba�d. By the
 gods! yesterday I was planning some new device to destroy their
 children, male and female; but the mines come happily to my aid!"
 
@@ -14775,7 +14808,7 @@ ceremonies, and will describe some of them that are not mentioned by
 you in your letters from Egypt, my dear father.
 
 On the seventh day after Moses and Aaron left him, Thothmeses went in
-state to the black marble temple of the sacred serpent, Uræus, to
+state to the black marble temple of the sacred serpent, Ur�us, to
 offer sacrifice and oblation to its great image of gold with jewelled
 eyes and hideous head. He addressed it as the god of wisdom and
 sagacity, and presented offerings of flowers, and a necklace of
@@ -14814,9 +14847,9 @@ purify the waters by feeding on poisons in the marshes and river.
 The succeeding day Pharaoh, as if possessed with a religious
 infatuation, that now led him to seek the favor of gods hitherto
 neglected by him, in his dread of the God of the Hebrews, paid a
-visit, with all his court, to the temple of the scarabæus, or sacred
+visit, with all his court, to the temple of the scarab�us, or sacred
 beetle of Egypt. This is a marble edifice, adorned with a frieze of
-scarabæi, having heads of every variety of animal. The god himself is
+scarab�i, having heads of every variety of animal. The god himself is
 a gigantic beetle of black marble, with a human head. He is supposed
 to protect the temples from vermin, such as lice and fleas; for one of
 these seen in a temple, or upon the garments of a priest, causes
@@ -16026,7 +16059,7 @@ hope and gratitude. Indeed, after the awful plague of darkness,
 thousands of the most ignorant Hebrews shouted that he was a god, and
 the Egyptians of all classes were ready to acknowledge him as Osiris
 or Thoth! And in some of the temples, the day after the darkness
-passed, the priests waved incense to Osiris by the name of Musæusiris,
+passed, the priests waved incense to Osiris by the name of Mus�usiris,
 or Osiris-Moses: and, I doubt not, divine honors will be paid him in
 Egypt for generations to come! Yet this mighty servant of God moves
 among the people, as unassuming and self-forgetful as the humblest of
@@ -16216,7 +16249,7 @@ desert. Then Moses and Aaron descended, and I kneeled before them, and
 asked if I might be permitted to go out of Egypt with the Lord's
 people, and continue to behold the power of God. Moses answered me
 with benignity, and said I should be with him as a son, that I might
-see the wonders of Jehovah, and make known in Phœnicia His glory
+see the wonders of Jehovah, and make known in Phoenicia His glory
 and power.
 
 While he was speaking, a mixed multitude of Egyptians, Nubians,
@@ -16313,7 +16346,7 @@ now, my dear prince, the direction taken by the miracles.
 "The first one, which confirmed my authority and mission to Pharaoh,
 destroyed the serpents. This was the first assault of the Almighty
 upon the gods and sacred animals and things of Egypt; for you are
-aware of the temple of the sacred Uræus, where the serpent is
+aware of the temple of the sacred Ur�us, where the serpent is
 worshipped. The serpent of the rod of God destroying the serpents of
 the Egyptians, showed Pharaoh that his gods could not live, or save
 themselves in the presence of the servant of the true God. Thus the
@@ -16998,7 +17031,7 @@ the preceding book has not arbitrarily employed facts, and made use of
 traditions to suit a certain series of hypothetical events; but has
 been controlled strictly by authorities.
 
-Scholars, versed in Egyptian archæology, will do the author justice in
+Scholars, versed in Egyptian arch�ology, will do the author justice in
 the plan and execution of his work; for minds, enriched with true
 erudition, upon the history of the land where his scenes are placed,
 will not only understand the difficulties which a writer has to
@@ -17035,7 +17068,7 @@ recently been made known only to the Academy of Sciences, France, in
 modest and unpretending reports of his scientific researches.
 
 As we have very thoroughly gone over the ground of Egyptian
-archæology, both in its scientific and theological relations, we are
+arch�ology, both in its scientific and theological relations, we are
 aware from what quarters attacks will be likely to come, if this book
 is honored by the notice of scholars. But to such, we beg leave to say
 that, while we may not have formed our work on the plan _their_ views
@@ -17109,7 +17142,7 @@ Joseph and the Exodus.
 The Biblical scholar need not be informed that Moses was forty years
 of age before he interested himself openly in the Hebrews. Egyptian
 history (see NOLAN) shows that in his thirty-fifth year, the
-queen-mother, Pharaoh's daughter, died, and was succeeded by Mœris;
+queen-mother, Pharaoh's daughter, died, and was succeeded by Moeris;
 and as the Scriptures are silent, as to the occupation and place of
 Moses in the interval, we are justifiable in placing him out of Egypt,
 during the six years that followed, as we have done.
@@ -17122,7 +17155,7 @@ references, we here make our grateful acknowledgments to them, and
 recognition of their works:
 
  G. SEYFFARTH, A. M., Ph. D., D. D., seriatim, especially,
- "Observationes Egyptiorum Astronomicæ, et Hireroglyphice descriptæ in
+ "Observationes Egyptiorum Astronomic�, et Hireroglyphice descript� in
  Zodiaco," &c., &c.--Leipz.
 
  "The Egyptian Chronology Analyzed;" by FREDERICK NOLAN, LL. D., F. R.
@@ -17149,7 +17182,7 @@ recognition of their works:
  MILLS' "Ancient Hebrews."
 
  LEPSIUS' "Discoveries in Egypt, Ethiopia," &c., and this eminent
- author's other valuable writings upon Egyptian archæology and
+ author's other valuable writings upon Egyptian arch�ology and
  antiquities.
 
  STANLEY'S "Sinai and Palestine."
@@ -17174,7 +17207,7 @@ recognition of their works:
 
  BIROU, Roy-Soc. Lit.
 
- "Description de l'Egypte," pendant l'Expédition de l'Armée Française,
+ "Description de l'Egypte," pendant l'Exp�dition de l'Arm�e Fran�aise,
  1826.
 
  LESUEUR, "Chron. des Rois d'Egypte."
@@ -17192,7 +17225,7 @@ recognition of their works:
  revelations have not lessened the weight of their testimony.
 
  We are also under obligations to Professor HENRY S. OSBORN, for the
- aid afforded in the Phœnician portion of our book, by his recently
+ aid afforded in the Phoenician portion of our book, by his recently
  published work, "Palestine, Past and Present," with "Biblical,
  Literary, and Scientific Notes;" one of the most valuable and
  interesting books of travel and research which has appeared for many
@@ -17240,4 +17273,367 @@ J. H. I.
 
 End of Project Gutenberg's The Pillar of Fire, by Joseph Holt Ingraham
 
-*** END OF THE PROJECT GUTENBERG EBOOK 50611 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE PILLAR OF FIRE ***
+
+***** This file should be named 50611-8.txt or 50611-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/0/6/1/50611/
+
+Produced by MWS, Chris Pinfield and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
